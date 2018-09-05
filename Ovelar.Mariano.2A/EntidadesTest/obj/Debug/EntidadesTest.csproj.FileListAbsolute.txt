@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\EntidadesTest\bin\Debug\EntidadesTest.exe.config
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\EntidadesTest\bin\Debug\EntidadesTest.exe
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\EntidadesTest\bin\Debug\EntidadesTest.pdb
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\EntidadesTest\obj\Debug\EntidadesTest.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\EntidadesTest\obj\Debug\EntidadesTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\EntidadesTest\obj\Debug\EntidadesTest.exe
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\EntidadesTest\obj\Debug\EntidadesTest.pdb

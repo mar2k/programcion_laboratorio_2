@@ -5,3 +5,10 @@ C:\Users\USER\Desktop\Ovelar.Mariano.2A\clase04\bin\Debug\clase04.exe
 C:\Users\USER\Desktop\Ovelar.Mariano.2A\clase04\bin\Debug\clase04.pdb
 C:\Users\USER\Desktop\Ovelar.Mariano.2A\clase04\obj\Debug\clase04.exe
 C:\Users\USER\Desktop\Ovelar.Mariano.2A\clase04\obj\Debug\clase04.pdb
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\clase04\bin\Debug\clase04.exe.config
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\clase04\bin\Debug\clase04.exe
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\clase04\bin\Debug\clase04.pdb
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\clase04\obj\Debug\clase04.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\clase04\obj\Debug\clase04.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\clase04\obj\Debug\clase04.exe
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\clase04\obj\Debug\clase04.pdb

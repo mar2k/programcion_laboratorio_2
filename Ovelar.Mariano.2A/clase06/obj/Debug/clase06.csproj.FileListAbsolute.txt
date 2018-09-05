@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\clase06\bin\Debug\clase06.exe.config
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\clase06\bin\Debug\clase06.exe
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\clase06\bin\Debug\clase06.pdb
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\clase06\obj\Debug\clase06.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\clase06\obj\Debug\clase06.Properties.Resources.resources
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\clase06\obj\Debug\clase06.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\clase06\obj\Debug\clase06.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\clase06\obj\Debug\clase06.exe
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\clase06\obj\Debug\clase06.pdb

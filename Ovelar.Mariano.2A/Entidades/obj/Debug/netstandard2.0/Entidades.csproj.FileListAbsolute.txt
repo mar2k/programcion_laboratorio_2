@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\Entidades\obj\Debug\netstandard2.0\Entidades.pdb

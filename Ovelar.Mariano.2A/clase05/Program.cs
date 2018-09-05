@@ -10,8 +10,19 @@ namespace clase05
   {
     static void Main(string[] args)
     {
-      Tinta modelo = new Tinta();
-      
+            Tinta miTinta = new Tinta();
+            Pluma miPluma = new Pluma(98,"sasa",miTinta);
+
+            miPluma += miTinta;
+            
+
+            Console.WriteLine(Pluma.Mostrar(miPluma));
+
+
+
+            Console.ReadKey();
+
+
     }
   }
 }
