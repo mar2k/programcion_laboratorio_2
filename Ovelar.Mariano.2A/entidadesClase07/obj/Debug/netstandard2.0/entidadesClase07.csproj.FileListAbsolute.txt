@@ -1,0 +1,4 @@
+D:\z\programcion_laboratorio_2\Ovelar.Mariano.2A\entidadesClase07\obj\Debug\netstandard2.0\entidadesClase07.csprojAssemblyReference.cache
+D:\z\programcion_laboratorio_2\Ovelar.Mariano.2A\entidadesClase07\obj\Debug\netstandard2.0\entidadesClase07.csproj.CoreCompileInputs.cache
+D:\z\programcion_laboratorio_2\Ovelar.Mariano.2A\entidadesClase07\obj\Debug\netstandard2.0\entidadesClase07.AssemblyInfoInputs.cache
+D:\z\programcion_laboratorio_2\Ovelar.Mariano.2A\entidadesClase07\obj\Debug\netstandard2.0\entidadesClase07.AssemblyInfo.cs
