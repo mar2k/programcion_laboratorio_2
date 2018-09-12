@@ -20,13 +20,18 @@ namespace clase06
         private void frmTinta_Load(object sender, EventArgs e)
         {
             InitializeComponent();
-            foreach(ConsoleColor color in Enum.GetValues(CosoleColor))
+            foreach(ConsoleColor color in Enum.GetValues(ConsoleColor))
             {
                 this.comboBox1.SelectedItem = ConsoleColor.Blue; 
             }
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }

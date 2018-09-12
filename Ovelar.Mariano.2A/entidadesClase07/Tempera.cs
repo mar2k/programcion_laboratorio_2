@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace entidadesClase07
 {
-    class Tempera
+    public class Tempera
     {
         private SByte _cantidad;
         private ConsoleColor _color;
@@ -72,6 +72,20 @@ namespace entidadesClase07
             return !(p==t);
         }
 
+        public static bool operator ==(Tempera p, SByte t)
+        {
+            bool retorna = false;
+            if (p._cantidad == t)
+            {
+                retorna = true;
+            }
+            return retorna;
+        }
+        public static bool operator !=(Tempera p, SByte t)
+        {
+            return !(p == t);
+        }
+
         public static Tempera operator +(Tempera p, Tempera t)
         {
             Tempera retorno = new Tempera(p._marca,p._color,p._cantidad);
@@ -90,7 +104,48 @@ namespace entidadesClase07
             return p;
         }
 
-        
+        public static Tempera operator -(Tempera p, Tempera t)
+        {
+            Tempera retorno = new Tempera(p._marca, p._color, p._cantidad);
+            if (p == t)
+            {
+                retorno._cantidad -= t._cantidad;
+            }
+            return retorno;
+        }
+
+        public static bool operator <(Tempera p, SByte t)
+        {
+            bool retorna = false;
+            if (p._cantidad<t)
+            {
+                retorna = true;
+            }
+            return retorna;
+        }
+        public static bool operator >(Tempera p, SByte t)
+        {
+            return !(p<t);
+        }
+        public static bool operator <=(Tempera p, SByte t)
+        {
+            bool retorna = false;
+            if (p < t && p._cantidad == t)
+            {
+                retorna = true;
+            }
+            return retorna;
+        }
+        public static bool operator >=(Tempera p, SByte t)
+        {
+            bool retorno=false;
+            if(!(p <= t) || p == t)
+            {
+                retorno = true;
+            }
+            return retorno;
+        }
+
 
         #endregion
 

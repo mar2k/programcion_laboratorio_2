@@ -181,11 +181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\z\\programcion_laboratorio_2\\Ovelar.Mariano.2A\\entidadesClase07\\entidadesClase07.csproj",
+      "projectUniqueName": "D:\\q\\programcion_laboratorio_2\\Ovelar.Mariano.2A\\entidadesClase07\\entidadesClase07.csproj",
       "projectName": "entidadesClase07",
-      "projectPath": "D:\\z\\programcion_laboratorio_2\\Ovelar.Mariano.2A\\entidadesClase07\\entidadesClase07.csproj",
+      "projectPath": "D:\\q\\programcion_laboratorio_2\\Ovelar.Mariano.2A\\entidadesClase07\\entidadesClase07.csproj",
       "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-      "outputPath": "D:\\z\\programcion_laboratorio_2\\Ovelar.Mariano.2A\\entidadesClase07\\obj\\",
+      "outputPath": "D:\\q\\programcion_laboratorio_2\\Ovelar.Mariano.2A\\entidadesClase07\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",

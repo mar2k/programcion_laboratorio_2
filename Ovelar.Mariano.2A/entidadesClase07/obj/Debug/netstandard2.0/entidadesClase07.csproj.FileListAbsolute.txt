@@ -2,3 +2,12 @@ D:\z\programcion_laboratorio_2\Ovelar.Mariano.2A\entidadesClase07\obj\Debug\nets
 D:\z\programcion_laboratorio_2\Ovelar.Mariano.2A\entidadesClase07\obj\Debug\netstandard2.0\entidadesClase07.csproj.CoreCompileInputs.cache
 D:\z\programcion_laboratorio_2\Ovelar.Mariano.2A\entidadesClase07\obj\Debug\netstandard2.0\entidadesClase07.AssemblyInfoInputs.cache
 D:\z\programcion_laboratorio_2\Ovelar.Mariano.2A\entidadesClase07\obj\Debug\netstandard2.0\entidadesClase07.AssemblyInfo.cs
+D:\q\programcion_laboratorio_2\Ovelar.Mariano.2A\entidadesClase07\bin\Debug\netstandard2.0\entidadesClase07.deps.json
+D:\q\programcion_laboratorio_2\Ovelar.Mariano.2A\entidadesClase07\bin\Debug\netstandard2.0\entidadesClase07.dll
+D:\q\programcion_laboratorio_2\Ovelar.Mariano.2A\entidadesClase07\bin\Debug\netstandard2.0\entidadesClase07.pdb
+D:\q\programcion_laboratorio_2\Ovelar.Mariano.2A\entidadesClase07\obj\Debug\netstandard2.0\entidadesClase07.csprojAssemblyReference.cache
+D:\q\programcion_laboratorio_2\Ovelar.Mariano.2A\entidadesClase07\obj\Debug\netstandard2.0\entidadesClase07.csproj.CoreCompileInputs.cache
+D:\q\programcion_laboratorio_2\Ovelar.Mariano.2A\entidadesClase07\obj\Debug\netstandard2.0\entidadesClase07.AssemblyInfoInputs.cache
+D:\q\programcion_laboratorio_2\Ovelar.Mariano.2A\entidadesClase07\obj\Debug\netstandard2.0\entidadesClase07.AssemblyInfo.cs
+D:\q\programcion_laboratorio_2\Ovelar.Mariano.2A\entidadesClase07\obj\Debug\netstandard2.0\entidadesClase07.dll
+D:\q\programcion_laboratorio_2\Ovelar.Mariano.2A\entidadesClase07\obj\Debug\netstandard2.0\entidadesClase07.pdb

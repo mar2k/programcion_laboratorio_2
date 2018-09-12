@@ -5,3 +5,10 @@ C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\
 C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\clase05\bin\Debug\clase05.pdb
 C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\clase05\obj\Debug\clase05.exe
 C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\clase05\obj\Debug\clase05.pdb
+D:\q\programcion_laboratorio_2\Ovelar.Mariano.2A\clase05\bin\Debug\clase05.exe.config
+D:\q\programcion_laboratorio_2\Ovelar.Mariano.2A\clase05\bin\Debug\clase05.exe
+D:\q\programcion_laboratorio_2\Ovelar.Mariano.2A\clase05\bin\Debug\clase05.pdb
+D:\q\programcion_laboratorio_2\Ovelar.Mariano.2A\clase05\obj\Debug\clase05.csprojAssemblyReference.cache
+D:\q\programcion_laboratorio_2\Ovelar.Mariano.2A\clase05\obj\Debug\clase05.csproj.CoreCompileInputs.cache
+D:\q\programcion_laboratorio_2\Ovelar.Mariano.2A\clase05\obj\Debug\clase05.exe
+D:\q\programcion_laboratorio_2\Ovelar.Mariano.2A\clase05\obj\Debug\clase05.pdb
