@@ -1,0 +1,18 @@
+C:\Users\alumno\Desktop\Xargam\Práctica clase a clase\Ejercicio clase 07\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Xargam\Práctica clase a clase\Ejercicio clase 07\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Xargam\Práctica clase a clase\Ejercicio clase 07\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\Xargam\Práctica clase a clase\Ejercicio clase 07\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.AssemblyInfo.cs
+C:\Users\alumno\Desktop\Xargam\Práctica clase a clase\Ejercicio clase 07\Entidades.Clase07\bin\Debug\netstandard2.0\Entidades.Clase07.deps.json
+C:\Users\alumno\Desktop\Xargam\Práctica clase a clase\Ejercicio clase 07\Entidades.Clase07\bin\Debug\netstandard2.0\Entidades.Clase07.dll
+C:\Users\alumno\Desktop\Xargam\Práctica clase a clase\Ejercicio clase 07\Entidades.Clase07\bin\Debug\netstandard2.0\Entidades.Clase07.pdb
+C:\Users\alumno\Desktop\Xargam\Práctica clase a clase\Ejercicio clase 07\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.dll
+C:\Users\alumno\Desktop\Xargam\Práctica clase a clase\Ejercicio clase 07\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.pdb
+C:\Users\alumno\Desktop\Ejercicio clase 07\Entidades.Clase07\bin\Debug\netstandard2.0\Entidades.Clase07.deps.json
+C:\Users\alumno\Desktop\Ejercicio clase 07\Entidades.Clase07\bin\Debug\netstandard2.0\Entidades.Clase07.dll
+C:\Users\alumno\Desktop\Ejercicio clase 07\Entidades.Clase07\bin\Debug\netstandard2.0\Entidades.Clase07.pdb
+C:\Users\alumno\Desktop\Ejercicio clase 07\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Ejercicio clase 07\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Ejercicio clase 07\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\Ejercicio clase 07\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.AssemblyInfo.cs
+C:\Users\alumno\Desktop\Ejercicio clase 07\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.dll
+C:\Users\alumno\Desktop\Ejercicio clase 07\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.pdb

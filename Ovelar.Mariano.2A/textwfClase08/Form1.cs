@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -24,17 +24,17 @@ namespace textwfClase08
             this.textBox1.Multiline= true;
             this.button1.Text = "+";
             this.button2.Text = "-";
-
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+                
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+          textBox1.SelectedText = "";
+          
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
@@ -55,9 +55,20 @@ namespace textwfClase08
 
         private void button1_Click(object sender, EventArgs e)
         {
-            frmTempera frm = new frmTempera();
-            frm.Show();
+            frmTempera colores = new frmTempera();
+            DialogResult dialogResult = colores.ShowDialog();
+            
+            if (dialogResult == DialogResult.OK)
+            {
+              this._miPaleta += colores.MiTempera;
+              textBox1.Text += (string)this._miPaleta;
+            }
 
         }
+
+      private void textBox1_TextChanged(object sender, EventArgs e)
+      {
+
+      }
     }
 }
