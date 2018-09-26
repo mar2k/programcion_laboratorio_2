@@ -33,8 +33,9 @@ namespace entidadesClase07
 
             foreach(Tempera color in this._colores)
             {
-               // retorna += Tempera.Mostrar(color)
-                retorna += color+"\n";
+
+                retorna += Tempera.Mostrar(color);
+                //retorna += color.ToString()+"ss";
             }
            
             return retorna;
@@ -48,10 +49,10 @@ namespace entidadesClase07
             {
                 if (!object.Equals(color,null))
                     if (t==color)
-                {
-                    retorna = true;
-                    break;
-                }
+                    {
+                        retorna = true;
+                        break;
+                    }
             }
             return retorna;
         }

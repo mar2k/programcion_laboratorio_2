@@ -20,18 +20,6 @@ namespace entidadesClase07
             this._cantidad = 0;
             this._marca = "SIN MARCA";
         }
-        public Tempera(ConsoleColor color) : this()
-        {
-            this._color = color;
-        }
-        public Tempera(String marca) : this()
-        {
-            this._marca = marca;
-        }
-        public Tempera(SByte cantidad) : this()
-        {
-            this._cantidad = cantidad;
-        }
         public Tempera(String marca, ConsoleColor color, SByte cantidad)
         {
             this._marca = marca;

@@ -13,12 +13,12 @@ namespace textwfClase08
 {
     public partial class Form1 : Form
     {
-        Paleta _miPaleta;
+        PaletaColeccion _miPaleta;
         public Form1()
         {
             InitializeComponent();
 
-            this._miPaleta = new Paleta(5);
+            this._miPaleta = new PaletaColeccion(5);
 
             this.groupBox1.Text = "Paleta decolores";
             this.textBox1.Multiline= true;
@@ -68,7 +68,7 @@ namespace textwfClase08
 
       private void textBox1_TextChanged(object sender, EventArgs e)
       {
-
+            textBox1.Text = "";
       }
     }
 }
