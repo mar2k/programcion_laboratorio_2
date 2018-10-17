@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\programcion_laboratorio_2\Ovelar.Mariano.2A\excepciones\bin\Debug\excepciones.exe.config
+C:\Users\alumno\Desktop\programcion_laboratorio_2\Ovelar.Mariano.2A\excepciones\bin\Debug\excepciones.exe
+C:\Users\alumno\Desktop\programcion_laboratorio_2\Ovelar.Mariano.2A\excepciones\bin\Debug\excepciones.pdb
+C:\Users\alumno\Desktop\programcion_laboratorio_2\Ovelar.Mariano.2A\excepciones\obj\Debug\excepciones.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\programcion_laboratorio_2\Ovelar.Mariano.2A\excepciones\obj\Debug\excepciones.exe
+C:\Users\alumno\Desktop\programcion_laboratorio_2\Ovelar.Mariano.2A\excepciones\obj\Debug\excepciones.pdb

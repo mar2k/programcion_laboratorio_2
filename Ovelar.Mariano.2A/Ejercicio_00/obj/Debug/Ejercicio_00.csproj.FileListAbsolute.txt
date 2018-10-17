@@ -12,3 +12,10 @@ C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\
 C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\Ejercicio_00\obj\Debug\Ejercicio_00.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\Ejercicio_00\obj\Debug\Ejercicio_00.exe
 C:\Users\USER\Desktop\Nueva carpeta\programcion_laboratorio_2\Ovelar.Mariano.2A\Ejercicio_00\obj\Debug\Ejercicio_00.pdb
+C:\Users\alumno\Desktop\programcion_laboratorio_2\Ovelar.Mariano.2A\Ejercicio_00\bin\Debug\Ejercicio_00.exe.config
+C:\Users\alumno\Desktop\programcion_laboratorio_2\Ovelar.Mariano.2A\Ejercicio_00\bin\Debug\Ejercicio_00.exe
+C:\Users\alumno\Desktop\programcion_laboratorio_2\Ovelar.Mariano.2A\Ejercicio_00\bin\Debug\Ejercicio_00.pdb
+C:\Users\alumno\Desktop\programcion_laboratorio_2\Ovelar.Mariano.2A\Ejercicio_00\obj\Debug\Ejercicio_00.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\programcion_laboratorio_2\Ovelar.Mariano.2A\Ejercicio_00\obj\Debug\Ejercicio_00.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\programcion_laboratorio_2\Ovelar.Mariano.2A\Ejercicio_00\obj\Debug\Ejercicio_00.exe
+C:\Users\alumno\Desktop\programcion_laboratorio_2\Ovelar.Mariano.2A\Ejercicio_00\obj\Debug\Ejercicio_00.pdb
