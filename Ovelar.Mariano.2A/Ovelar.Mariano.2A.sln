@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "textwfClase08", "textwfClas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "excepciones", "excepciones\excepciones.csproj", "{07FC2F10-C94F-473C-9577-DE42EC941E86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades Depósito - Autos", "Entidades Depósito - Autos\Entidades Depósito - Autos.csproj", "{01AFF5C1-BFBD-4CBD-B6FB-EACE11403305}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEntidades", "TestEntidades\TestEntidades.csproj", "{98131ACF-AB11-49EF-AC81-35E825182D0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{07FC2F10-C94F-473C-9577-DE42EC941E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07FC2F10-C94F-473C-9577-DE42EC941E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07FC2F10-C94F-473C-9577-DE42EC941E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01AFF5C1-BFBD-4CBD-B6FB-EACE11403305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AFF5C1-BFBD-4CBD-B6FB-EACE11403305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AFF5C1-BFBD-4CBD-B6FB-EACE11403305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AFF5C1-BFBD-4CBD-B6FB-EACE11403305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98131ACF-AB11-49EF-AC81-35E825182D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98131ACF-AB11-49EF-AC81-35E825182D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98131ACF-AB11-49EF-AC81-35E825182D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98131ACF-AB11-49EF-AC81-35E825182D0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

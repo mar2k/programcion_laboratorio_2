@@ -1,0 +1,6 @@
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\Entidades Depósito - Autos\bin\Debug\Entidades Depósito - Autos.dll
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\Entidades Depósito - Autos\bin\Debug\Entidades Depósito - Autos.pdb
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\Entidades Depósito - Autos\obj\Debug\Entidades Depósito - Autos.csprojAssemblyReference.cache
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\Entidades Depósito - Autos\obj\Debug\Entidades Depósito - Autos.csproj.CoreCompileInputs.cache
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\Entidades Depósito - Autos\obj\Debug\Entidades Depósito - Autos.dll
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\Entidades Depósito - Autos\obj\Debug\Entidades Depósito - Autos.pdb
