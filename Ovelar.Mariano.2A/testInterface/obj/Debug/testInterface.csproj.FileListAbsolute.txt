@@ -1,0 +1,10 @@
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\testInterface\bin\Debug\testInterface.exe.config
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\testInterface\bin\Debug\testInterface.exe
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\testInterface\bin\Debug\testInterface.pdb
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\testInterface\bin\Debug\Entidades Interface.dll
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\testInterface\bin\Debug\Entidades Interface.pdb
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\testInterface\obj\Debug\testInterface.csprojAssemblyReference.cache
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\testInterface\obj\Debug\testInterface.csproj.CoreCompileInputs.cache
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\testInterface\obj\Debug\testInterface.csproj.CopyComplete
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\testInterface\obj\Debug\testInterface.exe
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\testInterface\obj\Debug\testInterface.pdb

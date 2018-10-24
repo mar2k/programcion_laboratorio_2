@@ -4,3 +4,9 @@ C:\Users\alumno\Desktop\programcion_laboratorio_2\Ovelar.Mariano.2A\excepciones\
 C:\Users\alumno\Desktop\programcion_laboratorio_2\Ovelar.Mariano.2A\excepciones\obj\Debug\excepciones.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Desktop\programcion_laboratorio_2\Ovelar.Mariano.2A\excepciones\obj\Debug\excepciones.exe
 C:\Users\alumno\Desktop\programcion_laboratorio_2\Ovelar.Mariano.2A\excepciones\obj\Debug\excepciones.pdb
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\excepciones\bin\Debug\excepciones.exe.config
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\excepciones\bin\Debug\excepciones.exe
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\excepciones\bin\Debug\excepciones.pdb
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\excepciones\obj\Debug\excepciones.csproj.CoreCompileInputs.cache
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\excepciones\obj\Debug\excepciones.exe
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\excepciones\obj\Debug\excepciones.pdb

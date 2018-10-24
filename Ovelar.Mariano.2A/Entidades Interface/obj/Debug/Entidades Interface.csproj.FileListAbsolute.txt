@@ -1,0 +1,6 @@
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\Entidades Interface\bin\Debug\Entidades Interface.dll
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\Entidades Interface\bin\Debug\Entidades Interface.pdb
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\Entidades Interface\obj\Debug\Entidades Interface.csprojAssemblyReference.cache
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\Entidades Interface\obj\Debug\Entidades Interface.csproj.CoreCompileInputs.cache
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\Entidades Interface\obj\Debug\Entidades Interface.dll
+D:\#####Mariano\programcion_laboratorio_2\Ovelar.Mariano.2A\Entidades Interface\obj\Debug\Entidades Interface.pdb
