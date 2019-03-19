@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\clases\Ovelar.Mariano\proyecto01\bin\Debug\proyecto01.exe.config
+C:\Users\alumno\Desktop\clases\Ovelar.Mariano\proyecto01\bin\Debug\proyecto01.exe
+C:\Users\alumno\Desktop\clases\Ovelar.Mariano\proyecto01\bin\Debug\proyecto01.pdb
+C:\Users\alumno\Desktop\clases\Ovelar.Mariano\proyecto01\obj\Debug\proyecto01.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\clases\Ovelar.Mariano\proyecto01\obj\Debug\proyecto01.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\clases\Ovelar.Mariano\proyecto01\obj\Debug\proyecto01.exe
+C:\Users\alumno\Desktop\clases\Ovelar.Mariano\proyecto01\obj\Debug\proyecto01.pdb
