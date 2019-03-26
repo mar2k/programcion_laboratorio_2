@@ -1,0 +1,10 @@
+D:\repo\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\bin\Debug\proyecto03.exe.config
+D:\repo\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\bin\Debug\proyecto03.exe
+D:\repo\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\bin\Debug\proyecto03.pdb
+D:\repo\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\bin\Debug\Librerias.dll
+D:\repo\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\bin\Debug\Librerias.pdb
+D:\repo\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\obj\Debug\proyecto03.csprojAssemblyReference.cache
+D:\repo\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\obj\Debug\proyecto03.csproj.CoreCompileInputs.cache
+D:\repo\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\obj\Debug\proyecto03.csproj.CopyComplete
+D:\repo\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\obj\Debug\proyecto03.exe
+D:\repo\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\obj\Debug\proyecto03.pdb

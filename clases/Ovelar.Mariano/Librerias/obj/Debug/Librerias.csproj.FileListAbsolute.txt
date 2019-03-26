@@ -1,0 +1,6 @@
+D:\repo\programcion_laboratorio_2\clases\Ovelar.Mariano\Librerias\bin\Debug\Librerias.dll
+D:\repo\programcion_laboratorio_2\clases\Ovelar.Mariano\Librerias\bin\Debug\Librerias.pdb
+D:\repo\programcion_laboratorio_2\clases\Ovelar.Mariano\Librerias\obj\Debug\Librerias.csprojAssemblyReference.cache
+D:\repo\programcion_laboratorio_2\clases\Ovelar.Mariano\Librerias\obj\Debug\Librerias.csproj.CoreCompileInputs.cache
+D:\repo\programcion_laboratorio_2\clases\Ovelar.Mariano\Librerias\obj\Debug\Librerias.dll
+D:\repo\programcion_laboratorio_2\clases\Ovelar.Mariano\Librerias\obj\Debug\Librerias.pdb
