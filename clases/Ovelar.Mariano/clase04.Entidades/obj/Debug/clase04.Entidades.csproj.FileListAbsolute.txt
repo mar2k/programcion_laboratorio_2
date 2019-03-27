@@ -1,0 +1,6 @@
+D:\programcion_laboratorio_2\clases\Ovelar.Mariano\clase04.Entidades\bin\Debug\clase04.Entidades.dll
+D:\programcion_laboratorio_2\clases\Ovelar.Mariano\clase04.Entidades\bin\Debug\clase04.Entidades.pdb
+D:\programcion_laboratorio_2\clases\Ovelar.Mariano\clase04.Entidades\obj\Debug\clase04.Entidades.csprojAssemblyReference.cache
+D:\programcion_laboratorio_2\clases\Ovelar.Mariano\clase04.Entidades\obj\Debug\clase04.Entidades.csproj.CoreCompileInputs.cache
+D:\programcion_laboratorio_2\clases\Ovelar.Mariano\clase04.Entidades\obj\Debug\clase04.Entidades.dll
+D:\programcion_laboratorio_2\clases\Ovelar.Mariano\clase04.Entidades\obj\Debug\clase04.Entidades.pdb
