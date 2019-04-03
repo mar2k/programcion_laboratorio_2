@@ -8,3 +8,13 @@ D:\programcion_laboratorio_2\clases\Ovelar.Mariano\clase04\obj\Debug\clase04.csp
 D:\programcion_laboratorio_2\clases\Ovelar.Mariano\clase04\obj\Debug\clase04.csproj.CopyComplete
 D:\programcion_laboratorio_2\clases\Ovelar.Mariano\clase04\obj\Debug\clase04.exe
 D:\programcion_laboratorio_2\clases\Ovelar.Mariano\clase04\obj\Debug\clase04.pdb
+C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\clase04\bin\Debug\clase04.exe.config
+C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\clase04\bin\Debug\clase04.exe
+C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\clase04\bin\Debug\clase04.pdb
+C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\clase04\bin\Debug\clase04.Entidades.dll
+C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\clase04\bin\Debug\clase04.Entidades.pdb
+C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\clase04\obj\Debug\clase04.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\clase04\obj\Debug\clase04.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\clase04\obj\Debug\clase04.csproj.CopyComplete
+C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\clase04\obj\Debug\clase04.exe
+C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\clase04\obj\Debug\clase04.pdb

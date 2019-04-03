@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -30,7 +30,7 @@ namespace WindowsFormsApp1
             MessageBox.Show(cosa1.Mostrar());
             this.button1.Text = "CREAR UNA NUEVA COSA";
             this.button1.BackColor = Color.Yellow;
-            this.Form1.BackColor = Color.Gold;
+            //this.Form1.BackColor = Color.Gold;
         }
     }
 }

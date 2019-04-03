@@ -1,0 +1,10 @@
+C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\bin\Debug\clase05.exe.config
+C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\bin\Debug\clase05.exe
+C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\bin\Debug\clase05.pdb
+C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\bin\Debug\Clase_05.Entidades.dll
+C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\bin\Debug\Clase_05.Entidades.pdb
+C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\obj\Debug\clase05.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\obj\Debug\clase05.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\obj\Debug\clase05.csproj.CopyComplete
+C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\obj\Debug\clase05.exe
+C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\obj\Debug\clase05.pdb
