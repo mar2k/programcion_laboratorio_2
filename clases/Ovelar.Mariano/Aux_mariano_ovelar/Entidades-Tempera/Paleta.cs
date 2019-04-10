@@ -8,8 +8,17 @@ namespace Entidades_Tempera
 {
   public class Paleta
   {
-    private Tempera[] _temperas;
     private int _cantidadMaxima;
+
+    // cambiar array por lista de Temperas (List<Tempera>)
+
+    private Tempera[] _temperas;
+
+    public Tempera[] MisTemperas
+    {
+      get { return this._temperas; }
+    }
+
 
     private Paleta():this(5)
     {

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Entidades_Tempera
 {
   public class Tempera
-  {
+  { 
     private ConsoleColor _color;
     private string _marca;
     private sbyte _cantidad;
