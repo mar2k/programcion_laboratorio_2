@@ -21,12 +21,12 @@ namespace Entidades_Tempera
 
     private string Mostrar()
     {
-      return "COLOR:"+this._color.ToString() + " MARCA:" + this._marca + " CANTIDAD:" + this._cantidad.ToString();
+      return "COLOR: "+this._color.ToString() + " MARCA: " + this._marca + " CANTIDAD: " + this._cantidad.ToString();
     }
     public string Mostrar(Tempera tempera)
     {
       string retorno = "";
-      if(tempera!=null)
+      if(!Equals(tempera,null))
       {
         retorno = tempera.Mostrar();
       }

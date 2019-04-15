@@ -4,3 +4,9 @@ C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\Clase_05
 C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\Clase_05.Entidades\obj\Debug\Clase_05.Entidades.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\Clase_05.Entidades\obj\Debug\Clase_05.Entidades.dll
 C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\Clase_05.Entidades\obj\Debug\Clase_05.Entidades.pdb
+C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\Clase_05.Entidades\bin\Debug\Clase_05.Entidades.dll
+C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\Clase_05.Entidades\bin\Debug\Clase_05.Entidades.pdb
+C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\Clase_05.Entidades\obj\Debug\Clase_05.Entidades.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\Clase_05.Entidades\obj\Debug\Clase_05.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\Clase_05.Entidades\obj\Debug\Clase_05.Entidades.dll
+C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\Clase_05.Entidades\obj\Debug\Clase_05.Entidades.pdb

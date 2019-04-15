@@ -24,3 +24,16 @@ C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\WindowsF
 C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\WindowsFormsApp1\bin\Debug\clase04.Entidades.dll
 C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\WindowsFormsApp1\bin\Debug\clase04.Entidades.pdb
 C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\WindowsFormsApp1\bin\Debug\clase04.Entidades.dll
+C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\WindowsFormsApp1\bin\Debug\clase04.Entidades.pdb
+C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

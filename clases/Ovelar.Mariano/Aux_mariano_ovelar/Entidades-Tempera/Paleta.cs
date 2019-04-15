@@ -6,94 +6,109 @@ using System.Threading.Tasks;
 
 namespace Entidades_Tempera
 {
-  public class Paleta
-  {
-    private int _cantidadMaxima;
-
-    // cambiar array por lista de Temperas (List<Tempera>)
-
-    private Tempera[] _temperas;
-
-    public Tempera[] MisTemperas
+    public class Paleta
     {
-      get { return this._temperas; }
-    }
+        private int _cantidadMaxima;
 
+        // cambiar array por lista de Temperas (List<Tempera>)
 
-    private Paleta():this(5)
-    {
-    }
+        private List<Tempera> _temperas;
 
-    private Paleta(int cantidad)
-    {
-      this._cantidadMaxima = cantidad;
-      this._temperas = new Tempera[cantidad];
-    }
-
-    public static implicit operator Paleta(int cantidad)
-    {
-      return new Paleta(cantidad);
-    }
-    private string Mostrar()
-    {
-      string retorno = "TEMPERAS MAXIMA:"+this._cantidadMaxima.ToString()+"\n";
-      foreach(Tempera tempera in this._temperas)
-      {
-        if(tempera!=null)
+        public List<Tempera> MisTemperas
         {
-          retorno += tempera.Mostrar(tempera);
+            get { return this._temperas; }
         }
-      }
-        return retorno;
-    }
-    public static explicit operator string(Paleta paleta)
-    {
-      return paleta.Mostrar();
-    }
 
-    public static bool operator ==(Paleta paleta, Tempera tempera)
-    {
-      bool retorno=false;
-      for(int i=0;i<paleta._cantidadMaxima;i++)
-      {
-        if(paleta._temperas[i] == tempera)
-        {
-          retorno = true;
-          break;
-        }
-      }
-      return retorno;
-    }
-    public static bool operator !=(Paleta paleta, Tempera tempera)
-    {
-      return !(paleta == tempera);
-    }
 
-    public static Paleta operator +(Paleta paleta, Tempera tempera)
-    {
-        for (int i = 0; i < paleta._cantidadMaxima;i++)
+        private Paleta() : this(5)
         {
-          if(paleta!=tempera)
-          {
-          paleta._temperas[paleta.ObtenerIndice()] += tempera;
-          }
         }
-        
-      return paleta;
-    }
-    private int ObtenerIndice()
-    {
-      int retornar = -1;
-      for(int i=0;i<this._cantidadMaxima;i++)
-      {
-        if(Equals(this._temperas[i],null))
-        {
-          retornar = i;
-          break;
-        }
-      }
-      return retornar;
-    }
 
-  }
+        private Paleta(int cantidad)
+        {
+            this._cantidadMaxima = cantidad;
+            this._temperas = new List<Tempera>(cantidad);
+            for (int i = 0; i < this._cantidadMaxima; i++)
+            {
+                this._temperas.Insert(i, null);
+            }
+        }
+
+        public static implicit operator Paleta(int cantidad)
+        {
+            return new Paleta(cantidad);
+        }
+        private string Mostrar()
+        {
+            string retorno = "TEMPERAS MAXIMA:" + this._cantidadMaxima.ToString() + "\n";
+            foreach (Tempera tempera in this._temperas)
+            {
+                if (tempera != null)
+                {
+                    retorno += tempera.Mostrar(tempera);
+                }
+            }
+            return retorno;
+        }
+        public static explicit operator string(Paleta paleta)
+        {
+            return paleta.Mostrar();
+        }
+
+        public static bool operator ==(Paleta paleta, Tempera tempera)
+        {
+            bool retorno = false;
+            foreach (Tempera item in paleta.MisTemperas)
+            {
+                if (item == tempera)
+                {
+                    retorno = true;
+                    break;
+                }
+            }
+            return retorno;
+        }
+        public static bool operator !=(Paleta paleta, Tempera tempera)
+        {
+            return !(paleta == tempera);
+        }
+
+        public static Paleta operator +(Paleta paleta, Tempera tempera)
+        {
+            int lugar;
+            if (paleta != tempera)
+            {
+                lugar = paleta.ObtenerIndice();
+                if (lugar >= 0 && lugar < paleta._cantidadMaxima)
+                {
+                    paleta._temperas.Insert(lugar, tempera);
+                }
+
+            }
+            return paleta;
+        }
+        private int ObtenerIndice()
+        {
+            int retornar = -1;
+            int i = 0;
+            if (this._temperas.Count != 0)
+            {
+                foreach (Tempera item in this.MisTemperas)
+                {
+                    if (Equals(item, null))
+                    {
+                        retornar = i;
+                        break;
+                    }
+                    if (i >= this._cantidadMaxima)
+                    {
+                        break;
+                    }
+                    i++;
+                }
+            }
+            return retornar;
+        }
+
+    }
 }
