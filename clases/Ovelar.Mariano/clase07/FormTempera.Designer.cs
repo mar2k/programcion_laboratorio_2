@@ -124,8 +124,9 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(276, 20);
             this.label2.TabIndex = 13;
-            this.label2.Text = "0";
+            this.label2.Text = "MARCA";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // FormTempera
             // 

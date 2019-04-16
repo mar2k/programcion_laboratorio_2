@@ -12,6 +12,9 @@ namespace Entidades_Tempera
     private string _marca;
     private sbyte _cantidad;
 
+    public ConsoleColor Color { get { return this._color; } set { this._color =value; } }
+    public string Marca { get { return this._marca; } set { this._marca = value; } }
+
     public Tempera(ConsoleColor color, string marca, sbyte cantidad)
     {
       _color = color;
@@ -23,7 +26,7 @@ namespace Entidades_Tempera
     {
       return "COLOR: "+this._color.ToString() + " MARCA: " + this._marca + " CANTIDAD: " + this._cantidad.ToString();
     }
-    public string Mostrar(Tempera tempera)
+    public static string Mostrar(Tempera tempera)
     {
       string retorno = "";
       if(!Equals(tempera,null))

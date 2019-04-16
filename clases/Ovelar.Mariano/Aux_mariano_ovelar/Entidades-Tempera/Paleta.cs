@@ -45,7 +45,7 @@ namespace Entidades_Tempera
             {
                 if (tempera != null)
                 {
-                    retorno += tempera.Mostrar(tempera);
+                    retorno += Tempera.Mostrar(tempera);
                 }
             }
             return retorno;
