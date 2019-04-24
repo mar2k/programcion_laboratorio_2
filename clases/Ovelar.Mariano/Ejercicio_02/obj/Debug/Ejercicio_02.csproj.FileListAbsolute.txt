@@ -19,3 +19,10 @@ C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\Ejerci
 C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\Ejercicio_02\obj\Debug\Ejercicio_02.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\Ejercicio_02\obj\Debug\Ejercicio_02.exe
 C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\Ejercicio_02\obj\Debug\Ejercicio_02.pdb
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Ejercicio_02\bin\Debug\Ejercicio_02.exe.config
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Ejercicio_02\bin\Debug\Ejercicio_02.exe
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Ejercicio_02\bin\Debug\Ejercicio_02.pdb
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Ejercicio_02\obj\Debug\Ejercicio_02.csprojAssemblyReference.cache
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Ejercicio_02\obj\Debug\Ejercicio_02.csproj.CoreCompileInputs.cache
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Ejercicio_02\obj\Debug\Ejercicio_02.exe
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Ejercicio_02\obj\Debug\Ejercicio_02.pdb

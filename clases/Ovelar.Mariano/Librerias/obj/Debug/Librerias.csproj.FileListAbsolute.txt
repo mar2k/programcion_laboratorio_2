@@ -16,3 +16,9 @@ C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\Libreria
 C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\Librerias\obj\Debug\Librerias.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\Librerias\obj\Debug\Librerias.dll
 C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\Librerias\obj\Debug\Librerias.pdb
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Librerias\bin\Debug\Librerias.dll
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Librerias\bin\Debug\Librerias.pdb
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Librerias\obj\Debug\Librerias.csprojAssemblyReference.cache
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Librerias\obj\Debug\Librerias.csproj.CoreCompileInputs.cache
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Librerias\obj\Debug\Librerias.dll
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Librerias\obj\Debug\Librerias.pdb

@@ -16,3 +16,9 @@ C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\Aux_ma
 C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\Aux_mariano_ovelar\Entidades-Tempera\obj\Debug\Entidades-Tempera.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\Aux_mariano_ovelar\Entidades-Tempera\obj\Debug\Entidades-Tempera.dll
 C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\Aux_mariano_ovelar\Entidades-Tempera\obj\Debug\Entidades-Tempera.pdb
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Aux_mariano_ovelar\Entidades-Tempera\bin\Debug\Entidades-Tempera.dll
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Aux_mariano_ovelar\Entidades-Tempera\bin\Debug\Entidades-Tempera.pdb
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Aux_mariano_ovelar\Entidades-Tempera\obj\Debug\Entidades-Tempera.csprojAssemblyReference.cache
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Aux_mariano_ovelar\Entidades-Tempera\obj\Debug\Entidades-Tempera.csproj.CoreCompileInputs.cache
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Aux_mariano_ovelar\Entidades-Tempera\obj\Debug\Entidades-Tempera.dll
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Aux_mariano_ovelar\Entidades-Tempera\obj\Debug\Entidades-Tempera.pdb

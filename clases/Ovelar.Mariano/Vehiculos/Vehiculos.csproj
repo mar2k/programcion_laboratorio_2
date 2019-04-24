@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Auto.cs" />
     <Compile Include="Camion.cs" />
+    <Compile Include="EVehiculos.cs" />
     <Compile Include="Lavadero.cs" />
     <Compile Include="Marca.cs" />
     <Compile Include="Moto.cs" />

@@ -1,0 +1,6 @@
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Ovelar.Mariano.2A\bin\Debug\Ovelar.Mariano.2A.dll
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Ovelar.Mariano.2A\bin\Debug\Ovelar.Mariano.2A.pdb
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Ovelar.Mariano.2A\obj\Debug\Ovelar.Mariano.2A.csprojAssemblyReference.cache
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Ovelar.Mariano.2A\obj\Debug\Ovelar.Mariano.2A.csproj.CoreCompileInputs.cache
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Ovelar.Mariano.2A\obj\Debug\Ovelar.Mariano.2A.dll
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\Ovelar.Mariano.2A\obj\Debug\Ovelar.Mariano.2A.pdb

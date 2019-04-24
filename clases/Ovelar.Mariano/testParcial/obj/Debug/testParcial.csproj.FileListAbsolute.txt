@@ -1,0 +1,10 @@
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\testParcial\bin\Debug\testParcial.exe.config
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\testParcial\bin\Debug\testParcial.exe
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\testParcial\bin\Debug\testParcial.pdb
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\testParcial\bin\Debug\Ovelar.Mariano.2A.dll
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\testParcial\bin\Debug\Ovelar.Mariano.2A.pdb
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\testParcial\obj\Debug\testParcial.csprojAssemblyReference.cache
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\testParcial\obj\Debug\testParcial.csproj.CoreCompileInputs.cache
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\testParcial\obj\Debug\testParcial.csproj.CopyComplete
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\testParcial\obj\Debug\testParcial.exe
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\testParcial\obj\Debug\testParcial.pdb

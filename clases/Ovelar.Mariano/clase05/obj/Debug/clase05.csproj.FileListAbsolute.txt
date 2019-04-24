@@ -18,3 +18,13 @@ C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\clase0
 C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\obj\Debug\clase05.csproj.CopyComplete
 C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\obj\Debug\clase05.exe
 C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\obj\Debug\clase05.pdb
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\bin\Debug\clase05.exe.config
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\bin\Debug\clase05.exe
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\bin\Debug\clase05.pdb
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\bin\Debug\Clase_05.Entidades.dll
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\bin\Debug\Clase_05.Entidades.pdb
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\obj\Debug\clase05.csprojAssemblyReference.cache
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\obj\Debug\clase05.csproj.CoreCompileInputs.cache
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\obj\Debug\clase05.csproj.CopyComplete
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\obj\Debug\clase05.exe
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase05\obj\Debug\clase05.pdb

@@ -1,0 +1,10 @@
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\testVeiculos\bin\Debug\testVeiculos.exe.config
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\testVeiculos\bin\Debug\testVeiculos.exe
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\testVeiculos\bin\Debug\testVeiculos.pdb
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\testVeiculos\bin\Debug\Vehiculos.dll
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\testVeiculos\bin\Debug\Vehiculos.pdb
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\testVeiculos\obj\Debug\testVeiculos.csprojAssemblyReference.cache
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\testVeiculos\obj\Debug\testVeiculos.csproj.CoreCompileInputs.cache
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\testVeiculos\obj\Debug\testVeiculos.csproj.CopyComplete
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\testVeiculos\obj\Debug\testVeiculos.exe
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\testVeiculos\obj\Debug\testVeiculos.pdb

@@ -38,3 +38,13 @@ C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\proyec
 C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\obj\Debug\proyecto03.csproj.CopyComplete
 C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\obj\Debug\proyecto03.exe
 C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\obj\Debug\proyecto03.pdb
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\bin\Debug\proyecto03.exe.config
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\bin\Debug\proyecto03.exe
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\bin\Debug\proyecto03.pdb
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\bin\Debug\Librerias.dll
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\bin\Debug\Librerias.pdb
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\obj\Debug\proyecto03.csprojAssemblyReference.cache
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\obj\Debug\proyecto03.csproj.CoreCompileInputs.cache
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\obj\Debug\proyecto03.csproj.CopyComplete
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\obj\Debug\proyecto03.exe
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\proyecto03\obj\Debug\proyecto03.pdb

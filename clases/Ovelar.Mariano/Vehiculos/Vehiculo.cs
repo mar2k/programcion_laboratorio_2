@@ -6,63 +6,77 @@ using System.Threading.Tasks;
 
 namespace Vehiculos
 {
-  public class Vehiculo
-  {
-    protected string _patente;
-
-    public string Patente
+    public abstract class Vehiculo
     {
-      get { return _patente; }
-      //set { _patente = value; }
-    }
-    protected EMarca _marca;
+        protected string _patente;
 
-    public EMarca Marca
-    {
-      get { return _marca; }
-      set { _marca = value; }
-    }
-    protected sbyte _cantidadRuedas;
-
-    public sbyte CantidadRuedas
-    {
-      get { return _cantidadRuedas; }
-      set { _cantidadRuedas = value; }
-    }
-
-
-    public Vehiculo(string patente, sbyte canidadRueda,EMarca marca )
-    {
-      this.CantidadRuedas = canidadRueda;
-      this._patente = patente;
-      this.Marca = marca;
-    }
-
-    protected string MostrarVehiculo()
-    {
-      return "Patente: " + this.Patente + " - " + "Marca: "+this.Marca+" - "+"Ruedas: "+this.CantidadRuedas;
-    }
-
-    public static bool operator ==(Vehiculo vehiculo1, Vehiculo vehiculo2)
-    {
-      bool retorno = false;
-      if (!Equals(vehiculo1, null) && !Equals(vehiculo2, null))
-      {
-        if (vehiculo1.CantidadRuedas == vehiculo2.CantidadRuedas && vehiculo1.Marca == vehiculo2.Marca && vehiculo1.Patente == vehiculo2.Patente)
+        public string Patente
         {
-          retorno = true;
+            get { return _patente; }
+            //set { _patente = value; }
+        }
+        protected EMarca _marca;
+
+        public EMarca Marca
+        {
+            get { return _marca; }
+            set { _marca = value; }
+        }
+        protected sbyte _cantidadRuedas;
+
+        public sbyte CantidadRuedas
+        {
+            get { return _cantidadRuedas; }
+            set { _cantidadRuedas = value; }
         }
 
-      }
-      else if (Equals(vehiculo1, null) && Equals(vehiculo2, null))
-      {
-        retorno = true;
-      }
-      return retorno;
+        protected double _precio;
+
+        public abstract double Precio
+        {
+            get;
+            set;
+        }
+
+        public abstract double CalcularPrecioConIVA();
+
+        public Vehiculo(string patente, sbyte canidadRueda, EMarca marca)
+        {
+            this.CantidadRuedas = canidadRueda;
+            this._patente = patente;
+            this.Marca = marca;
+        }
+
+        protected string MostrarVehiculo()
+        {
+            return "Patente: " + this.Patente + " - " + "Marca: " + this.Marca + " - " + "Ruedas: " + this.CantidadRuedas;
+        }
+
+        public override string ToString()
+        {
+            return this.MostrarVehiculo();
+        }
+
+        public static bool operator ==(Vehiculo vehiculo1, Vehiculo vehiculo2)
+        {
+            bool retorno = false;
+            if (!Equals(vehiculo1, null) && !Equals(vehiculo2, null))
+            {
+                if (vehiculo1.CantidadRuedas == vehiculo2.CantidadRuedas && vehiculo1.Marca == vehiculo2.Marca && vehiculo1.Patente == vehiculo2.Patente)
+                {
+                    retorno = true;
+                }
+
+            }
+            else if (Equals(vehiculo1, null) && Equals(vehiculo2, null))
+            {
+                retorno = true;
+            }
+            return retorno;
+        }
+        public static bool operator !=(Vehiculo vehiculo1, Vehiculo vehiculo2)
+        {
+            return !(vehiculo1 == vehiculo2);
+        }
     }
-    public static bool operator !=(Vehiculo vehiculo1, Vehiculo vehiculo2)
-    {
-      return !(vehiculo1 == vehiculo2);
-    }
-  }
 }

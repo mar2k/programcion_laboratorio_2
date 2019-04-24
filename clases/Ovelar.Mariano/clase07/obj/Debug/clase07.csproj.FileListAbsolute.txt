@@ -27,3 +27,18 @@ C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\clase0
 C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\clase07\obj\Debug\clase07.exe
 C:\Users\USER\Desktop\UTN\programcion_laboratorio_2\clases\Ovelar.Mariano\clase07\obj\Debug\clase07.pdb
 C:\Users\alumno\Desktop\programcion_laboratorio_2\clases\Ovelar.Mariano\clase07\obj\Debug\clase07.frmPrincipal.resources
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase07\bin\Debug\clase07.exe.config
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase07\bin\Debug\clase07.exe
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase07\bin\Debug\clase07.pdb
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase07\bin\Debug\Entidades-Tempera.dll
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase07\bin\Debug\Entidades-Tempera.pdb
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase07\obj\Debug\clase07.csprojAssemblyReference.cache
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase07\obj\Debug\clase07.Form1.resources
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase07\obj\Debug\clase07.FormTempera.resources
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase07\obj\Debug\clase07.frmPrincipal.resources
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase07\obj\Debug\clase07.Properties.Resources.resources
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase07\obj\Debug\clase07.csproj.GenerateResource.cache
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase07\obj\Debug\clase07.csproj.CoreCompileInputs.cache
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase07\obj\Debug\clase07.csproj.CopyComplete
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase07\obj\Debug\clase07.exe
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase07\obj\Debug\clase07.pdb
