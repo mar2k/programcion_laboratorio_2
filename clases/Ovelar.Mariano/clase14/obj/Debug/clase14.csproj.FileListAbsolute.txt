@@ -1,0 +1,10 @@
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase14\bin\Debug\clase14.exe.config
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase14\bin\Debug\clase14.exe
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase14\bin\Debug\clase14.pdb
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase14\bin\Debug\Entidades.clase.14.dll
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase14\bin\Debug\Entidades.clase.14.pdb
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase14\obj\Debug\clase14.csprojAssemblyReference.cache
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase14\obj\Debug\clase14.csproj.CoreCompileInputs.cache
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase14\obj\Debug\clase14.csproj.CopyComplete
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase14\obj\Debug\clase14.exe
+D:\mariano ovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\clase14\obj\Debug\clase14.pdb
