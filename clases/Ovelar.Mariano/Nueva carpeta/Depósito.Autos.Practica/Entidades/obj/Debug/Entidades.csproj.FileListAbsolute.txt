@@ -1,0 +1,6 @@
+D:\practica parcial\Depósito.Autos.Practica\Entidades\bin\Debug\Entidades.dll
+D:\practica parcial\Depósito.Autos.Practica\Entidades\bin\Debug\Entidades.pdb
+D:\practica parcial\Depósito.Autos.Practica\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\practica parcial\Depósito.Autos.Practica\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\practica parcial\Depósito.Autos.Practica\Entidades\obj\Debug\Entidades.dll
+D:\practica parcial\Depósito.Autos.Practica\Entidades\obj\Debug\Entidades.pdb
