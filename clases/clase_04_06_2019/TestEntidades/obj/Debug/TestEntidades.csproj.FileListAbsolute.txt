@@ -1,0 +1,10 @@
+D:\marianoovelar\clase_04_06_2019\TestEntidades\bin\Debug\TestEntidades.exe.config
+D:\marianoovelar\clase_04_06_2019\TestEntidades\bin\Debug\TestEntidades.exe
+D:\marianoovelar\clase_04_06_2019\TestEntidades\bin\Debug\TestEntidades.pdb
+D:\marianoovelar\clase_04_06_2019\TestEntidades\bin\Debug\Entidades.dll
+D:\marianoovelar\clase_04_06_2019\TestEntidades\bin\Debug\Entidades.pdb
+D:\marianoovelar\clase_04_06_2019\TestEntidades\obj\Debug\TestEntidades.csprojAssemblyReference.cache
+D:\marianoovelar\clase_04_06_2019\TestEntidades\obj\Debug\TestEntidades.csproj.CoreCompileInputs.cache
+D:\marianoovelar\clase_04_06_2019\TestEntidades\obj\Debug\TestEntidades.csproj.CopyComplete
+D:\marianoovelar\clase_04_06_2019\TestEntidades\obj\Debug\TestEntidades.exe
+D:\marianoovelar\clase_04_06_2019\TestEntidades\obj\Debug\TestEntidades.pdb
