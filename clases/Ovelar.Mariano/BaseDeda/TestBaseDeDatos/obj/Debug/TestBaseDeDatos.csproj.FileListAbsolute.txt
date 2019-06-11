@@ -1,0 +1,11 @@
+D:\BaseDeda\TestBaseDeDatos\bin\Debug\TestBaseDeDatos.exe.config
+D:\BaseDeda\TestBaseDeDatos\bin\Debug\TestBaseDeDatos.exe
+D:\BaseDeda\TestBaseDeDatos\bin\Debug\TestBaseDeDatos.pdb
+D:\BaseDeda\TestBaseDeDatos\bin\Debug\BaseDeDatos.dll
+D:\BaseDeda\TestBaseDeDatos\bin\Debug\BaseDeDatos.pdb
+D:\BaseDeda\TestBaseDeDatos\bin\Debug\BaseDeDatos.dll.config
+D:\BaseDeda\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.csprojAssemblyReference.cache
+D:\BaseDeda\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.csproj.CoreCompileInputs.cache
+D:\BaseDeda\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.csproj.CopyComplete
+D:\BaseDeda\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.exe
+D:\BaseDeda\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.pdb

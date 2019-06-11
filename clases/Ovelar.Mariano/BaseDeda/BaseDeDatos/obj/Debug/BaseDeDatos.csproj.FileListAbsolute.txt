@@ -1,0 +1,7 @@
+D:\BaseDeda\BaseDeDatos\bin\Debug\BaseDeDatos.dll.config
+D:\BaseDeda\BaseDeDatos\bin\Debug\BaseDeDatos.dll
+D:\BaseDeda\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+D:\BaseDeda\BaseDeDatos\obj\Debug\BaseDeDatos.csprojAssemblyReference.cache
+D:\BaseDeda\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
+D:\BaseDeda\BaseDeDatos\obj\Debug\BaseDeDatos.dll
+D:\BaseDeda\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
