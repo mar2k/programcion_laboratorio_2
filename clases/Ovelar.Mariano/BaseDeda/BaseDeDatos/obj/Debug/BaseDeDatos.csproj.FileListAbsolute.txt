@@ -5,3 +5,10 @@ D:\BaseDeda\BaseDeDatos\obj\Debug\BaseDeDatos.csprojAssemblyReference.cache
 D:\BaseDeda\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
 D:\BaseDeda\BaseDeDatos\obj\Debug\BaseDeDatos.dll
 D:\BaseDeda\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\BaseDeDatos\bin\Debug\BaseDeDatos.dll.config
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\BaseDeDatos\bin\Debug\BaseDeDatos.dll
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\BaseDeDatos\obj\Debug\BaseDeDatos.csprojAssemblyReference.cache
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\BaseDeDatos\obj\Debug\BaseDeDatos.dll
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\BaseDeDatos\obj\Debug\BaseDeDatos.pdb

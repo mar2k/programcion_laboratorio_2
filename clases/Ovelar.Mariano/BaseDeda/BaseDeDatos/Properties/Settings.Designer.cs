@@ -26,7 +26,7 @@ namespace BaseDeDatos.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAB5PC30\\SQLEXPRESS;Initial Catalog=Padron;Integrated Security=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAB5PC31\\SQLEXPRESS;Initial Catalog=Padron;Integrated Security=True")]
         public string conecion_bd {
             get {
                 return ((string)(this["conecion_bd"]));

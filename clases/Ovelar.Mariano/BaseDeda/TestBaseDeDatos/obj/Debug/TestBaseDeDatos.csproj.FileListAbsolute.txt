@@ -9,3 +9,14 @@ D:\BaseDeda\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.csproj.CoreCompileInputs.c
 D:\BaseDeda\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.csproj.CopyComplete
 D:\BaseDeda\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.exe
 D:\BaseDeda\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.pdb
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\TestBaseDeDatos\bin\Debug\TestBaseDeDatos.exe.config
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\TestBaseDeDatos\bin\Debug\TestBaseDeDatos.exe
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\TestBaseDeDatos\bin\Debug\TestBaseDeDatos.pdb
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\TestBaseDeDatos\bin\Debug\BaseDeDatos.dll
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\TestBaseDeDatos\bin\Debug\BaseDeDatos.pdb
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\TestBaseDeDatos\bin\Debug\BaseDeDatos.dll.config
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.csprojAssemblyReference.cache
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.csproj.CoreCompileInputs.cache
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.csproj.CopyComplete
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.exe
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.pdb

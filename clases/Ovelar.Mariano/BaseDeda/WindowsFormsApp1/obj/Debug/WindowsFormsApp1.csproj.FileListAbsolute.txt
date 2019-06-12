@@ -1,0 +1,14 @@
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\WindowsFormsApp1\bin\Debug\BaseDeDatos.dll
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\WindowsFormsApp1\bin\Debug\BaseDeDatos.pdb
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\WindowsFormsApp1\bin\Debug\BaseDeDatos.dll.config
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmListado.resources
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\marianoovelar\programcion_laboratorio_2\clases\Ovelar.Mariano\BaseDeda\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

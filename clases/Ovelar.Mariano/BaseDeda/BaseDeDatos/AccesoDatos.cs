@@ -79,6 +79,61 @@ VALUES('Q','Y',12),('R','R',10)*/
             return retorno; 
         }
 
+        public bool ModificarPersona(Persona p)
+        {
+            bool retorno = false;
+            List<Persona> listaPersona = new List<Persona>();
+            this._comando = new SqlCommand();
+
+            this._comando.Connection = this._conecion;
+
+            this._comando.CommandType = CommandType.Text;
+            //this._comando.CommandText = "UPDATE [Padron].[dbo].[Personas] SET (nombre'" + p.nombre + "','" +",apellido'" + p.nombre + ", edad '" + p.nombre +) VALUES ('" + p.nombre + "','" + p.apellido + "'," + p.edad.ToString() + ")WHERE id =" +p.id.ToString();
+            try
+            {
+                this._conecion.Open();
+                int aux = this._comando.ExecuteNonQuery();
+
+                if (aux > 0)
+                {
+                    retorno = true;
+                }
+
+                this._conecion.Close();
+            }
+            catch (Exception )
+            {
+                return retorno;
+            }
+            return retorno;
+        }
+
+
+        public DataTable TraerTablaPersonas()
+        {
+            DataTable dataTable = new DataTable("Personas");
+
+            this._comando = new SqlCommand();
+
+            this._comando.Connection = this._conecion;
+
+            this._comando.CommandType = CommandType.Text;
+            this._comando.CommandText = "SELECT id  ,nombre  ,apellido  ,edad  FROM[Padron].[dbo].[Personas] ";
+            try
+            {
+                this._conecion.Open();
+                SqlDataReader dataReader = this._comando.ExecuteReader();
+                dataTable.Load(dataReader);
+                
+                this._conecion.Close();
+            }
+            catch (Exception)
+            {
+
+            }
+            return dataTable;
+        }
+
 
     }
 }
