@@ -1,0 +1,11 @@
+D:\programcion_laboratorio_2\clases\Ovelar.Mariano\ultimaClase\bin\Debug\ultimaClase.exe.config
+D:\programcion_laboratorio_2\clases\Ovelar.Mariano\ultimaClase\bin\Debug\ultimaClase.exe
+D:\programcion_laboratorio_2\clases\Ovelar.Mariano\ultimaClase\bin\Debug\ultimaClase.pdb
+D:\programcion_laboratorio_2\clases\Ovelar.Mariano\ultimaClase\obj\Debug\ultimaClase.Form1.resources
+D:\programcion_laboratorio_2\clases\Ovelar.Mariano\ultimaClase\obj\Debug\ultimaClase.Properties.Resources.resources
+D:\programcion_laboratorio_2\clases\Ovelar.Mariano\ultimaClase\obj\Debug\ultimaClase.csproj.GenerateResource.cache
+D:\programcion_laboratorio_2\clases\Ovelar.Mariano\ultimaClase\obj\Debug\ultimaClase.csproj.CoreCompileInputs.cache
+D:\programcion_laboratorio_2\clases\Ovelar.Mariano\ultimaClase\obj\Debug\ultimaClase.exe
+D:\programcion_laboratorio_2\clases\Ovelar.Mariano\ultimaClase\obj\Debug\ultimaClase.pdb
+D:\programcion_laboratorio_2\clases\Ovelar.Mariano\ultimaClase\obj\Debug\ultimaClase.csprojAssemblyReference.cache
+D:\programcion_laboratorio_2\clases\Ovelar.Mariano\ultimaClase\obj\Debug\ultimaClase.Form2.resources
