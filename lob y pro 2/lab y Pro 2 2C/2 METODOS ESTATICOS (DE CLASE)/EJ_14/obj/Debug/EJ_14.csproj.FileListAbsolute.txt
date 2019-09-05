@@ -1,0 +1,12 @@
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_14\bin\Debug\EJ_14.exe.config
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_14\bin\Debug\EJ_14.exe
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_14\bin\Debug\EJ_14.pdb
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_14\obj\Debug\EJ_14.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_14\obj\Debug\EJ_14.exe
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_14\obj\Debug\EJ_14.pdb
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_14\bin\Debug\EJ_14.exe.config
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_14\bin\Debug\EJ_14.exe
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_14\bin\Debug\EJ_14.pdb
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_14\obj\Debug\EJ_14.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_14\obj\Debug\EJ_14.exe
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_14\obj\Debug\EJ_14.pdb

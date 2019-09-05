@@ -1,0 +1,7 @@
+D:\OvelarMariano\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\clase 1\EJ_01\bin\Release\EJ_01.exe.config
+D:\OvelarMariano\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\clase 1\EJ_01\bin\Release\EJ_01.exe
+D:\OvelarMariano\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\clase 1\EJ_01\bin\Release\EJ_01.pdb
+D:\OvelarMariano\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\clase 1\EJ_01\obj\Release\EJ_01.csprojAssemblyReference.cache
+D:\OvelarMariano\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\clase 1\EJ_01\obj\Release\EJ_01.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\clase 1\EJ_01\obj\Release\EJ_01.exe
+D:\OvelarMariano\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\clase 1\EJ_01\obj\Release\EJ_01.pdb

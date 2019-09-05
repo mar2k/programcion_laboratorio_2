@@ -1,0 +1,7 @@
+D:\OvelarMariano\OvelarMariano\programcion_laboratorio_2\lob y pro 2\Repaso\clase 5\bin\Debug\clase 5.exe.config
+D:\OvelarMariano\OvelarMariano\programcion_laboratorio_2\lob y pro 2\Repaso\clase 5\bin\Debug\clase 5.exe
+D:\OvelarMariano\OvelarMariano\programcion_laboratorio_2\lob y pro 2\Repaso\clase 5\bin\Debug\clase 5.pdb
+D:\OvelarMariano\OvelarMariano\programcion_laboratorio_2\lob y pro 2\Repaso\clase 5\obj\Debug\clase 5.csprojAssemblyReference.cache
+D:\OvelarMariano\OvelarMariano\programcion_laboratorio_2\lob y pro 2\Repaso\clase 5\obj\Debug\clase 5.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\OvelarMariano\programcion_laboratorio_2\lob y pro 2\Repaso\clase 5\obj\Debug\clase 5.exe
+D:\OvelarMariano\OvelarMariano\programcion_laboratorio_2\lob y pro 2\Repaso\clase 5\obj\Debug\clase 5.pdb

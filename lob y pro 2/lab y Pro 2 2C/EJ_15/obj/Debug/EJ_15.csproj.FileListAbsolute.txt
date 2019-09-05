@@ -1,7 +1,0 @@
-D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_15\bin\Debug\EJ_15.exe.config
-D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_15\bin\Debug\EJ_15.exe
-D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_15\bin\Debug\EJ_15.pdb
-D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_15\obj\Debug\EJ_15.csprojAssemblyReference.cache
-D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_15\obj\Debug\EJ_15.csproj.CoreCompileInputs.cache
-D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_15\obj\Debug\EJ_15.exe
-D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_15\obj\Debug\EJ_15.pdb

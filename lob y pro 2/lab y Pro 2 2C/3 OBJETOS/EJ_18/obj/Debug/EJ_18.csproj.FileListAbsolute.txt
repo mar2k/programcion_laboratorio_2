@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_18\bin\Debug\EJ_18.exe.config
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_18\bin\Debug\EJ_18.exe
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_18\bin\Debug\EJ_18.pdb
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_18\obj\Debug\EJ_18.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_18\obj\Debug\EJ_18.exe
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_18\obj\Debug\EJ_18.pdb
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_18\obj\Debug\EJ_18.csprojAssemblyReference.cache

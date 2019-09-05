@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_17\bin\Debug\EJ_17.exe.config
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_17\bin\Debug\EJ_17.exe
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_17\bin\Debug\EJ_17.pdb
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_17\obj\Debug\EJ_17.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_17\obj\Debug\EJ_17.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_17\obj\Debug\EJ_17.exe
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_17\obj\Debug\EJ_17.pdb
