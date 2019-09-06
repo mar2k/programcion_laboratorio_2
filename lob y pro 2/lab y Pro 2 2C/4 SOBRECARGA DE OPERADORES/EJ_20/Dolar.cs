@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,80 +9,84 @@ using System.Threading.Tasks;
 
 namespace Billetes
 {
-    class Dolar
-    {
-        private double cantida;
-        private static double cotizRespectoDolar;
+  class Dolar
+  {
+    //private double cantida;
+    //private static double cotizRespectoDolar;
 
-        private Dolar()
-        {
-        }
+    //static Dolar()
+    //{
+    //  Dolar.cotizRespectoDolar = 1;
+    //}
 
-        public Dolar(double cantida)
-        {
-            this.cantida = cantida;
-        }
+    //public Dolar(double cantida)
+    //{
+    //  this.cantida = cantida;
+    //}
 
-        public Dolar(double cantida, double cotizRespectoDolar) : this(cantida)
-        {
-            Dolar.cotizRespectoDolar = cotizRespectoDolar;
-        }
+    //public Dolar(double cantida, double cotizRespectoDolar) : this(cantida)
+    //{
+    //  Dolar.cotizRespectoDolar = cotizRespectoDolar;
+    //}
 
-        public static explicit operator Euro(Dolar d)
-        {
-            
-        }
-        public static explicit operator Pesos(Dolar d)
-        {
+    //public static explicit operator Euro(Dolar d)
+    //{
+    //  return new Euro(d.GetCantidad() * 1.16);
+    //}
+    //public static explicit operator Pesos(Dolar d)
+    //{
+    //  return new Pesos(d.GetCantidad() * 38.33);
+    //}
+    //public double GetCantidad()
+    //{
+    //  return this.cantida;
+    //}
+    //public static double GetCotizacion()
+    //{
+    //  return Dolar.cotizRespectoDolar;
+    //}
 
-        }
-        public double GetCantidad()
-        {
-            return 0;
-        }
-        public static double GetCotizacion()
-        {
-            return 0;
-        }
+    //public static implicit operator Dolar(double d)
+    //{
+    //  return new Dolar(d);
+    //}
 
-        public static implicit operator Dolar(double d)
-        {
-            return new Dolar(d);
-        }
+    //public static bool operator ==(Dolar d, Euro e)
+    //{
+    //  if (d is null && e is null)
+    //  {
+    //    if (e==(Euro)d)
+    //    {
 
-        public static bool operator ==(Dolar d,Euro e)
-        {
-            if (d is null && e is null)
-            {
+    //    }
+    //  }
+    //}
+    //public static bool operator !=(Dolar d, Euro e)
+    //{
+    //  return !(d == e);
+    //}
+    //public static bool operator ==(Dolar d, Pesos p)
+    //{
+    //  if (d is null && p is null)
+    //  {
 
-            }
-        }
-        public static bool operator !=(Dolar d, Euro e)
-        {
-            return !(d == e);
-        }
-        public static bool operator ==(Dolar d,Pesos p)
-        {
-            if (d is null && p is null)
-            {
+    //  }
+    //}
+    //public static bool operator !=(Dolar d, Pesos p)
+    //{
+    //  return !(d == p);
+    //}
+    //public static bool operator ==(Dolar d1, Dolar d2)
+    //{
+    //  if (d1 is null && d2 is null)
+    //  {
 
-            }
-        }
-        public static bool operator !=(Dolar d, Pesos p)
-        {
-            return !(d == p);
-        }
-        public static bool operator ==(Dolar d1,Dolar d2)
-        {
-            if (d1 is null && d2 is null)
-            {
+    //  }
+    //}
+    //public static bool operator !=(Dolar d1, Dolar d2)
+    //{
+    //  return !(d1 == d2);
+    //}
 
-            }
-        }
-        public static bool operator !=(Dolar d1, Dolar d2)
-        {
-            return !(d1 == d2);
-        }
-
-    }
+  }
 }
