@@ -5,3 +5,10 @@ C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_
 C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_19\obj\Debug\EJ_19.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_19\obj\Debug\EJ_19.exe
 C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_19\obj\Debug\EJ_19.pdb
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\4 SOBRECARGA DE OPERADORES\EJ_19\bin\Debug\EJ_19.exe.config
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\4 SOBRECARGA DE OPERADORES\EJ_19\bin\Debug\EJ_19.exe
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\4 SOBRECARGA DE OPERADORES\EJ_19\bin\Debug\EJ_19.pdb
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\4 SOBRECARGA DE OPERADORES\EJ_19\obj\Debug\EJ_19.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\4 SOBRECARGA DE OPERADORES\EJ_19\obj\Debug\EJ_19.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\4 SOBRECARGA DE OPERADORES\EJ_19\obj\Debug\EJ_19.exe
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\4 SOBRECARGA DE OPERADORES\EJ_19\obj\Debug\EJ_19.pdb

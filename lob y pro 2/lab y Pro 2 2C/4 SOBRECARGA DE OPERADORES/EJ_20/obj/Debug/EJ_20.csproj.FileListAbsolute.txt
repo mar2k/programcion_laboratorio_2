@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\4 SOBRECARGA DE OPERADORES\EJ_20\bin\Debug\EJ_20.exe.config
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\4 SOBRECARGA DE OPERADORES\EJ_20\bin\Debug\EJ_20.exe
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\4 SOBRECARGA DE OPERADORES\EJ_20\bin\Debug\EJ_20.pdb
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\4 SOBRECARGA DE OPERADORES\EJ_20\obj\Debug\EJ_20.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\4 SOBRECARGA DE OPERADORES\EJ_20\obj\Debug\EJ_20.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\4 SOBRECARGA DE OPERADORES\EJ_20\obj\Debug\EJ_20.exe
+C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\4 SOBRECARGA DE OPERADORES\EJ_20\obj\Debug\EJ_20.pdb
