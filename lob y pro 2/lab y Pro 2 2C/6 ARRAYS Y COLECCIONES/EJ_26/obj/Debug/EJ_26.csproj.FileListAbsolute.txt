@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\6 ARRAYS Y COLECCIONES\EJ_26\bin\Debug\EJ_26.exe.config
+C:\Users\alumno\Desktop\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\6 ARRAYS Y COLECCIONES\EJ_26\bin\Debug\EJ_26.exe
+C:\Users\alumno\Desktop\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\6 ARRAYS Y COLECCIONES\EJ_26\bin\Debug\EJ_26.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\6 ARRAYS Y COLECCIONES\EJ_26\obj\Debug\EJ_26.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\6 ARRAYS Y COLECCIONES\EJ_26\obj\Debug\EJ_26.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\6 ARRAYS Y COLECCIONES\EJ_26\obj\Debug\EJ_26.exe
+C:\Users\alumno\Desktop\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\6 ARRAYS Y COLECCIONES\EJ_26\obj\Debug\EJ_26.pdb
