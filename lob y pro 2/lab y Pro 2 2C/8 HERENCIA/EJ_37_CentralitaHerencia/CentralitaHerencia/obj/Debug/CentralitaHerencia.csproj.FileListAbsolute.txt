@@ -1,0 +1,6 @@
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\8 HERENCIA\x\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\8 HERENCIA\x\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\8 HERENCIA\x\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\8 HERENCIA\x\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\8 HERENCIA\x\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\8 HERENCIA\x\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb

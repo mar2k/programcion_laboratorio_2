@@ -1,0 +1,11 @@
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\8 HERENCIA\CentralTelefonica\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\8 HERENCIA\x\Test\bin\Debug\Test.exe.config
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\8 HERENCIA\x\Test\bin\Debug\Test.exe
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\8 HERENCIA\x\Test\bin\Debug\Test.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\8 HERENCIA\x\Test\bin\Debug\CentralitaHerencia.dll
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\8 HERENCIA\x\Test\bin\Debug\CentralitaHerencia.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\8 HERENCIA\x\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\8 HERENCIA\x\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\8 HERENCIA\x\Test\obj\Debug\Test.csproj.CopyComplete
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\8 HERENCIA\x\Test\obj\Debug\Test.exe
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\8 HERENCIA\x\Test\obj\Debug\Test.pdb
