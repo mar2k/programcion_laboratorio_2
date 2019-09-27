@@ -25,7 +25,7 @@ namespace CentralitaHerencia
         {
             get
             {
-                return this.CalcularGanancias(TipoLlamada.Local);
+                return this.CalcularGanancias(Llamada.TipoLlamada.Local);
             }
         }
 
@@ -34,7 +34,7 @@ namespace CentralitaHerencia
         {
             get
             {
-                return this.CalcularGanancias(TipoLlamada.Provincial);
+                return this.CalcularGanancias(Llamada.TipoLlamada.Provincial);
             }
         }
 
@@ -42,24 +42,24 @@ namespace CentralitaHerencia
         {
             get
             {
-                return this.CalcularGanancias(TipoLlamada.Todas);
+                return this.CalcularGanancias(Llamada.TipoLlamada.Todas);
             }
         }
 
-        private float CalcularGanancias(TipoLlamada tipo)
+        private float CalcularGanancias(Llamada.TipoLlamada tipo)
         {
             float recaudacion = 0;
             int aux = 0;
 
-            if (tipo == TipoLlamada.Local)
+            if (tipo == Llamada.TipoLlamada.Local)
             {
                 aux = 1;
             }
-            else if (tipo == TipoLlamada.Provincial)
+            else if (tipo == Llamada.TipoLlamada.Provincial)
             {
                 aux = 2;
             }
-            else if (tipo == TipoLlamada.Todas)
+            else if (tipo == Llamada.TipoLlamada.Todas)
             {
                 aux = 3;
             }
@@ -149,6 +149,14 @@ namespace CentralitaHerencia
                 }
             }
             return c;
+        }
+        public override bool Equals(object obj)
+        {
+            return base.Equals(obj);
+        }
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
         }
     }
 }

@@ -75,6 +75,9 @@ namespace CentralitaHerencia
         {
             return this.Mostrar();
         }
-
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
     }
 }

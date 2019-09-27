@@ -82,5 +82,20 @@ namespace CentralitaHerencia
         {
             return !(l1 == l2);
         }
+
+        public override bool Equals(object obj)
+        {
+            return base.Equals(obj);
+        }
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+        public enum TipoLlamada
+        {
+            Local,
+            Provincial,
+            Todas
+        }
     }
 }
