@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComiqueriaApp", "ComiqueriaApp\ComiqueriaApp.csproj", "{EE473F46-6A42-4285-ACE9-D77CED9F0B95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComiqueriaLogic", "ClassLibrary1\ComiqueriaLogic\ComiqueriaLogic.csproj", "{E8E98036-DDE7-4FAE-9859-2149C543B540}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EE473F46-6A42-4285-ACE9-D77CED9F0B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE473F46-6A42-4285-ACE9-D77CED9F0B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE473F46-6A42-4285-ACE9-D77CED9F0B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8E98036-DDE7-4FAE-9859-2149C543B540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E98036-DDE7-4FAE-9859-2149C543B540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E98036-DDE7-4FAE-9859-2149C543B540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E98036-DDE7-4FAE-9859-2149C543B540}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

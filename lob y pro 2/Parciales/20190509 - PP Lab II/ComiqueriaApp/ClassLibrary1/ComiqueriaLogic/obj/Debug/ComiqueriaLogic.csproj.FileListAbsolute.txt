@@ -1,0 +1,2 @@
+D:\ovelar mariano\programcion_laboratorio_2\lob y pro 2\Parciales\20190509 - PP Lab II\ComiqueriaApp\ClassLibrary1\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csprojAssemblyReference.cache
+D:\ovelar mariano\programcion_laboratorio_2\lob y pro 2\Parciales\20190509 - PP Lab II\ComiqueriaApp\ClassLibrary1\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
