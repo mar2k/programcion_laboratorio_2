@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ComiqueriaLogic
 {
-    class Comic : Producto
+    public class Comic : Producto
     {
         private string autor;
         private  TipoComic tipoComic;

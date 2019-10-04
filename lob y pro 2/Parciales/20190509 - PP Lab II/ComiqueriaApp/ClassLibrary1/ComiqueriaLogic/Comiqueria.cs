@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ComiqueriaLogic
 {
-    class Comiqueria
+    public class Comiqueria
     {
         private List<Producto> productos;
         private List<Venta> ventas;
@@ -34,12 +34,19 @@ namespace ComiqueriaLogic
             this.ventas = new List<Venta>();
         }
 
-        public Dictionary<Guid, string> ListaProductos()
+        public Dictionary<Guid, string> ListarProductos()
         {
-            return new Dictionary<Guid, string>();
+            Dictionary<Guid, string> dicDeProductos=new Dictionary<Guid, string>();
+            
+            foreach (Producto item in this.productos)
+            {
+                dicDeProductos.Add(((Guid)item), item.Descripcion);
+            }
+
+            return dicDeProductos;
 
         }
-        string ListarVentas()
+        public string ListarVentas()
         {
             StringBuilder retorno = new StringBuilder();
 
@@ -61,6 +68,7 @@ namespace ComiqueriaLogic
                     if (item.Descripcion == producto.Descripcion)
                     {
                         retorno = true;
+                        break;
                     }
                 }
             }
@@ -91,6 +99,14 @@ namespace ComiqueriaLogic
             {
                 this.ventas.Add(new Venta(producto, cantidad));
             }
+        }
+        public override bool Equals(object obj)
+        {
+            return base.Equals(obj);
+        }
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
         }
     }
 }

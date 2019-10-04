@@ -16,12 +16,24 @@ namespace ComiqueriaLogic
         public string Descripcion
         {
             get
-            { return this.descripcion; }
+            {
+                if (this.descripcion is null)
+                {
+                    this.descripcion = "";
+                }
+                return this.descripcion;
+            }
         }
         public double Precio
         {
             get
-            { return this.precio; }
+            {
+                if (this.precio == 0)
+                {
+                    this.precio = 0;
+                }
+                return this.precio;
+            }
         }
         public int Stock
         {
@@ -40,9 +52,12 @@ namespace ComiqueriaLogic
         {
             return p.codigo;
         }
-        protected Producto(string descripcion,int stock,double precio)
+        protected Producto(string descripcion, int stock, double precio)
         {
-            codigo = Guid.NewGuid();
+            this.stock = stock;
+            this.precio = precio;
+            this.descripcion = descripcion;
+            this.codigo = Guid.NewGuid();
         }
         public override string ToString()
         {
