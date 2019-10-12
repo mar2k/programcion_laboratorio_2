@@ -20,7 +20,7 @@ namespace FrmCantina
         public Form1()
         {
             InitializeComponent();
-            this.barra = new Barra();
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -31,15 +31,33 @@ namespace FrmCantina
             this.nudContenido.Maximum = 5000;
             this.nudCapacidad.Value = 1000;
             this.nudContenido.Value = 1000;
+            this.rbtnCerveza.Checked = true;
             this.cmbBotellaTipo.DataSource = Enum.GetValues(typeof(Botella.Tipo));
-            this.panel1.Controls.Add(this.barra);
+
+            this.barra = new Barra();
             this.barra.SetCantina = Cantina.GetCantina(10);
-             
+            this.barra.Height = 368;
+            this.barra.Width = 551;
+            this.barra.Location = new Point(0, 0);
+            this.barra.Name = "controlBarra";
+
+
+            this.panel1.Controls.Add(this.barra);
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)
         {
-            
+            Botella.Tipo tipo;
+            Enum.TryParse<Botella.Tipo>(cmbBotellaTipo.SelectedValue.ToString(), out tipo);
+            if (this.rbtnCerveza.Checked)
+            {
+                this.barra.AgregarBotella(new Cerveza((int)this.nudCapacidad.Value, this.txtMarca.Text, tipo,(int) this.nudContenido.Value));
+            }
+            else
+            {
+                this.barra.AgregarBotella(new Agua((int)this.nudCapacidad.Value, this.txtMarca.Text, (int)this.nudContenido.Value));
+            }
+
         }
     }
 }

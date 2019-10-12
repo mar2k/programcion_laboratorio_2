@@ -22,7 +22,7 @@ namespace Entidades
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.Append(base.ToString());
+            sb.Append(base.GenerarInforme());
             sb.Append("Botella de ");
             sb.AppendLine(this.tipo.ToString());
 
@@ -38,7 +38,15 @@ namespace Entidades
             int retorno = 0;
 
             retorno = (int)(MEDIDA * 0.8);
-            base.Contenido = base.Contenido - retorno;
+            if (base.Contenido - retorno >= 0)
+            {
+                base.Contenido = base.Contenido - retorno;
+            }
+            else
+            {
+                retorno = base.Contenido;
+                base.Contenido = 0;
+            }
 
             return retorno;
         }

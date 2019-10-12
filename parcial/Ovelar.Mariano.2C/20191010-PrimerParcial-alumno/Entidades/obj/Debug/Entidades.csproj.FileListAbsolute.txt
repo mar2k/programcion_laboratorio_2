@@ -4,3 +4,9 @@ D:\OvelarMariano\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\Entidad
 D:\OvelarMariano\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 D:\OvelarMariano\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.dll
 D:\OvelarMariano\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.pdb
+C:\Users\USER\Desktop\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\USER\Desktop\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\USER\Desktop\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\USER\Desktop\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.pdb

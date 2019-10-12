@@ -6,25 +6,25 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public class Agua:Botella
+    public class Agua : Botella
     {
-        private const int MEDIDA=400;
+        private const int MEDIDA = 400;
 
         public Agua(int capacidadML, string marca, int contenidoML) : base(marca, capacidadML, contenidoML)
         {
 
         }
-        
+
         protected override string GenerarInforme()
         {
-            return base.ToString();
+            return base.GenerarInforme();
         }
-     
+
         public override int ServirMedida()
         {
             int retorno = 0;
 
-            this.ServirMedida(MEDIDA);
+            retorno = this.ServirMedida(MEDIDA);
 
             return retorno;
         }

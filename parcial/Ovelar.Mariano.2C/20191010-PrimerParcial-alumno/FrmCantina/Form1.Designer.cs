@@ -36,11 +36,11 @@
             this.label2 = new System.Windows.Forms.Label();
             this.txtMarca = new System.Windows.Forms.TextBox();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.cmbBotellaTipo = new System.Windows.Forms.ComboBox();
             this.rbtnAgua = new System.Windows.Forms.RadioButton();
             this.rbtnCerveza = new System.Windows.Forms.RadioButton();
-            this.cmbBotellaTipo = new System.Windows.Forms.ComboBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.nudCapacidad)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nudContenido)).BeginInit();
             this.panel2.SuspendLayout();
@@ -48,9 +48,9 @@
             // 
             // panel1
             // 
-            this.panel1.Location = new System.Drawing.Point(12, 12);
+            this.panel1.Location = new System.Drawing.Point(10, 10);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(623, 252);
+            this.panel1.Size = new System.Drawing.Size(551, 368);
             this.panel1.TabIndex = 0;
             // 
             // btnAgregar
@@ -115,10 +115,36 @@
             this.panel2.Controls.Add(this.label1);
             this.panel2.Controls.Add(this.txtMarca);
             this.panel2.Controls.Add(this.nudCapacidad);
-            this.panel2.Location = new System.Drawing.Point(12, 270);
+            this.panel2.Location = new System.Drawing.Point(10, 386);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(623, 115);
+            this.panel2.Size = new System.Drawing.Size(551, 115);
             this.panel2.TabIndex = 1;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(231, 76);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(55, 13);
+            this.label4.TabIndex = 12;
+            this.label4.Text = "Contenido";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(127, 76);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(58, 13);
+            this.label3.TabIndex = 11;
+            this.label3.Text = "Capacidad";
+            // 
+            // cmbBotellaTipo
+            // 
+            this.cmbBotellaTipo.FormattingEnabled = true;
+            this.cmbBotellaTipo.Location = new System.Drawing.Point(341, 39);
+            this.cmbBotellaTipo.Name = "cmbBotellaTipo";
+            this.cmbBotellaTipo.Size = new System.Drawing.Size(121, 21);
+            this.cmbBotellaTipo.TabIndex = 10;
             // 
             // rbtnAgua
             // 
@@ -142,40 +168,16 @@
             this.rbtnCerveza.Text = "Cerveza";
             this.rbtnCerveza.UseVisualStyleBackColor = true;
             // 
-            // cmbBotellaTipo
-            // 
-            this.cmbBotellaTipo.FormattingEnabled = true;
-            this.cmbBotellaTipo.Location = new System.Drawing.Point(341, 39);
-            this.cmbBotellaTipo.Name = "cmbBotellaTipo";
-            this.cmbBotellaTipo.Size = new System.Drawing.Size(121, 21);
-            this.cmbBotellaTipo.TabIndex = 10;
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(127, 76);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(58, 13);
-            this.label3.TabIndex = 11;
-            this.label3.Text = "Capacidad";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(231, 76);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(55, 13);
-            this.label4.TabIndex = 12;
-            this.label4.Text = "Contenido";
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(571, 397);
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.ClientSize = new System.Drawing.Size(571, 542);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.nudCapacidad)).EndInit();
