@@ -96,7 +96,7 @@
             this.Controls.Add(this.btnFacturaciónTotal);
             this.Controls.Add(this.btnGenerarLlamada);
             this.Name = "FrmMenu";
-            this.Text = "Form1";
+            this.Text = "Central Telefónica";
             this.Load += new System.EventHandler(this.FrmMenu_Load);
             this.ResumeLayout(false);
 

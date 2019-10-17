@@ -10,3 +10,9 @@ C:\Users\USER\Desktop\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\201910
 C:\Users\USER\Desktop\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.dll
 C:\Users\USER\Desktop\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\Entidades\bin\Debug\Entidades.dll
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\Entidades\bin\Debug\Entidades.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.dll
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.pdb

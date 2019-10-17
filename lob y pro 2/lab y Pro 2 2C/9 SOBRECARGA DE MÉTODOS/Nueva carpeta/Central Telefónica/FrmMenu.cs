@@ -34,7 +34,7 @@ namespace Central_Telefónica
 
         private void btnGenerarLlamada_Click(object sender, EventArgs e)
         {
-            FrmLlamador frmLlamador = new FrmLlamador();
+            FrmLlamador frmLlamador = new FrmLlamador(this.MiCentralita);
 
             frmLlamador.ShowDialog();
         }

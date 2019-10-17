@@ -42,7 +42,7 @@ namespace Entidades
 
             if (!(c is null) && !(b is null))
             {
-                if (c.espaciosTotales - c.botellas.Count >= 0)
+                if (c.espaciosTotales - c.botellas.Count > 0)
                 {
                     c.botellas.Add(b);
                     retorno = true;

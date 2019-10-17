@@ -13,23 +13,30 @@ namespace Central_Telefónica
 {
     public partial class FrmLlamador : Form
     {
+        Centralita centralita;
         TextBox textBoxAux;
+
         public FrmLlamador()
         {
             InitializeComponent();
         }
 
+        public FrmLlamador(Centralita centralita):this()
+        {
+            this.centralita = centralita;
+        }
+        
         private void FrmLlamador_Load(object sender, EventArgs e)
         {
-            cmbFranja.DataSource = Enum.GetValues(typeof(Provincial.Franja));
-            txtNroDestino.Text = "";
+            this.cmbFranja.DataSource = Enum.GetValues(typeof(Provincial.Franja));
+            this.txtNroDestino.Text = "";
             //txtNroDestino.ReadOnly = true;
-            txtNroOrigen.Text = "";
+            this.txtNroOrigen.Text = "";
             //txtNroOrigen.ReadOnly = true;
-            cmbFranja.DropDownStyle = ComboBoxStyle.DropDownList;
-            cmbFranja.Text = "";
-            cmbFranja.SelectedIndex = 0;
-            textBoxAux = txtNroDestino;
+            this.cmbFranja.DropDownStyle = ComboBoxStyle.DropDownList;
+            this.cmbFranja.Text = "";
+            this.cmbFranja.SelectedIndex = 0;
+            this.textBoxAux = txtNroDestino;
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
@@ -41,7 +48,25 @@ namespace Central_Telefónica
 
         private void btnLlamar_Click(object sender, EventArgs e)
         {
+            string numOrigen;
+            string numDestino;
+            float costo;
+            Random tiempoRandom = new Random();
+            Provincial.Franja franja;
+            costo = (float)(tiempoRandom.Next(5, 56)/10f); //0,5 y 5,6
+            float tiempo = tiempoRandom.Next(1, 50);
+            numOrigen = this.txtNroOrigen.Text;
+            numDestino= this.txtNroDestino.Text;
+            Enum.TryParse<Provincial.Franja>(this.cmbFranja.SelectedValue.ToString(), out franja);
 
+            if (numDestino.ToList()[0]=='#')
+            {
+                this.centralita = this.centralita + new Provincial(numOrigen, franja, tiempo, numDestino);
+            }
+            else
+            {
+                this.centralita = this.centralita + new Local(numOrigen, tiempo, numDestino,costo);
+            }
         }
 
         private void btnSalir_Click(object sender, EventArgs e)
@@ -106,22 +131,21 @@ namespace Central_Telefónica
 
         private void btnNumeral_Click(object sender, EventArgs e)
         {
-            if (textBoxAux.Text=="")
+            if (this.textBoxAux.Text=="")
             {
-                textBoxAux.Text += "#";
-
+                this.textBoxAux.Text += "#";
             }
         }
 
       
         private void txtNroDestino_Click(object sender, EventArgs e)
         {
-            textBoxAux = txtNroDestino;
+            this.textBoxAux = txtNroDestino;
         }
 
         private void txtNroOrigen_Click(object sender, EventArgs e)
         {
-            textBoxAux = txtNroOrigen;
+            this.textBoxAux = txtNroOrigen;
         }
     }
 }

@@ -34,3 +34,15 @@ C:\Users\USER\Desktop\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\201910
 C:\Users\USER\Desktop\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.CopyComplete
 C:\Users\USER\Desktop\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlesUsuario.dll
 C:\Users\USER\Desktop\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlesUsuario.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\ControlesUsuario\bin\Debug\ControlesUsuario.dll
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\ControlesUsuario\bin\Debug\ControlesUsuario.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\ControlesUsuario\bin\Debug\Entidades.dll
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\ControlesUsuario\bin\Debug\Entidades.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlesUsuario.csprojAssemblyReference.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlCantina.Barra.resources
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlesUsuario.Properties.Resources.resources
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.GenerateResource.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.CopyComplete
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlesUsuario.dll
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\parcial\Ovelar.Mariano.2C\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlesUsuario.pdb

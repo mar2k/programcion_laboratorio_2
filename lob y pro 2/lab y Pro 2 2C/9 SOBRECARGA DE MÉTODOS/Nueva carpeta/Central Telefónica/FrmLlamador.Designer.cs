@@ -264,7 +264,7 @@
             this.Controls.Add(this.btnLlamar);
             this.Controls.Add(this.groupBox1);
             this.Name = "FrmLlamador";
-            this.Text = "FrmLlamador";
+            this.Text = "Llamador";
             this.Load += new System.EventHandler(this.FrmLlamador_Load);
             this.groupBox1.ResumeLayout(false);
             this.ResumeLayout(false);
