@@ -1,0 +1,22 @@
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\bin\Debug\TestCentralita-EJ 44.dll
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\bin\Debug\TestCentralita-EJ 44.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\bin\Debug\Central Telefónica.exe
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\bin\Debug\CentralitaException-EJ 41.dll
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\bin\Debug\Central Telefónica.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\bin\Debug\Central Telefónica.exe.config
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\bin\Debug\CentralitaException-EJ 41.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\obj\Debug\TestCentralita-EJ 44.csprojAssemblyReference.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\obj\Debug\TestCentralita-EJ 44.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\obj\Debug\TestCentralita-EJ 44.csproj.CopyComplete
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\obj\Debug\TestCentralita-EJ 44.dll
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\TestCentralita-EJ 44\obj\Debug\TestCentralita-EJ 44.pdb

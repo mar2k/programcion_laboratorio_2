@@ -122,6 +122,13 @@ namespace Billetes
       Euro euro = new Euro(e.GetCantidad() - ((Euro)d).GetCantidad());
       return euro;
     }
-
-  }
+        public override bool Equals(object obj)
+        {
+            return base.Equals(obj);
+        }
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+    }
 }

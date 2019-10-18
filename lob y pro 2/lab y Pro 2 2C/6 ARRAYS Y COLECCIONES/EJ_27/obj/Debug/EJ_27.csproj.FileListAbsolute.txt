@@ -5,3 +5,10 @@ C:\Users\alumno\Desktop\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab 
 C:\Users\alumno\Desktop\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_27\obj\Debug\EJ_27.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Desktop\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_27\obj\Debug\EJ_27.exe
 C:\Users\alumno\Desktop\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_27\obj\Debug\EJ_27.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\6 ARRAYS Y COLECCIONES\EJ_27\bin\Debug\EJ_27.exe.config
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\6 ARRAYS Y COLECCIONES\EJ_27\bin\Debug\EJ_27.exe
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\6 ARRAYS Y COLECCIONES\EJ_27\bin\Debug\EJ_27.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\6 ARRAYS Y COLECCIONES\EJ_27\obj\Debug\EJ_27.csprojAssemblyReference.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\6 ARRAYS Y COLECCIONES\EJ_27\obj\Debug\EJ_27.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\6 ARRAYS Y COLECCIONES\EJ_27\obj\Debug\EJ_27.exe
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\6 ARRAYS Y COLECCIONES\EJ_27\obj\Debug\EJ_27.pdb

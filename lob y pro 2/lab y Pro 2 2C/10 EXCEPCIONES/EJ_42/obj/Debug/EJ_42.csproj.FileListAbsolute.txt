@@ -1,0 +1,7 @@
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\EJ_42\bin\Debug\EJ_42.exe.config
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\EJ_42\bin\Debug\EJ_42.exe
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\EJ_42\bin\Debug\EJ_42.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\EJ_42\obj\Debug\EJ_42.csprojAssemblyReference.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\EJ_42\obj\Debug\EJ_42.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\EJ_42\obj\Debug\EJ_42.exe
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\EJ_42\obj\Debug\EJ_42.pdb

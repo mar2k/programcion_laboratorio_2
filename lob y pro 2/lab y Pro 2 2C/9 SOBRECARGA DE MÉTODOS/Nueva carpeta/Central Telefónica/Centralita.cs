@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using CentralitaException_EJ_41;
 
 namespace CentralitaHerencia
 {
@@ -146,6 +147,10 @@ namespace CentralitaHerencia
                 if (c!=NuevaLlamada)
                 {
                     c.AgregarLlamada(NuevaLlamada);
+                }
+                else
+                {
+                    throw new CentralitaException("Ya esta la llamada en la cental", "Centralita", "operador +");
                 }
             }
             return c;

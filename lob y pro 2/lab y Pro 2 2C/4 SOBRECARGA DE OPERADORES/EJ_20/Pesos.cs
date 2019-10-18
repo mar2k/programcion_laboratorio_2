@@ -123,6 +123,13 @@ namespace Billetes
       Pesos pesos = new Pesos(e.GetCantidad() - ((Pesos)d).GetCantidad());
       return pesos;
     }
-
-  }
+        public override bool Equals(object obj)
+        {
+            return base.Equals(obj);
+        }
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+    }
 }

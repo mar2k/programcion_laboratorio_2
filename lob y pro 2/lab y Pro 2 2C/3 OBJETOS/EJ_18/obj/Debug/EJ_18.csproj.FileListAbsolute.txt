@@ -5,3 +5,10 @@ C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_
 C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_18\obj\Debug\EJ_18.exe
 C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_18\obj\Debug\EJ_18.pdb
 C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_18\obj\Debug\EJ_18.csprojAssemblyReference.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\3 OBJETOS\EJ_18\bin\Debug\EJ_18.exe.config
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\3 OBJETOS\EJ_18\bin\Debug\EJ_18.exe
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\3 OBJETOS\EJ_18\bin\Debug\EJ_18.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\3 OBJETOS\EJ_18\obj\Debug\EJ_18.csprojAssemblyReference.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\3 OBJETOS\EJ_18\obj\Debug\EJ_18.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\3 OBJETOS\EJ_18\obj\Debug\EJ_18.exe
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\3 OBJETOS\EJ_18\obj\Debug\EJ_18.pdb

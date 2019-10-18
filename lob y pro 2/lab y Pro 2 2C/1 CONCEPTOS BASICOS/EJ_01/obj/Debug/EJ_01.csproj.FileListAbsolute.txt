@@ -19,3 +19,10 @@ D:\OvelarMariano\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2
 D:\OvelarMariano\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_01\obj\Debug\EJ_01.csproj.CoreCompileInputs.cache
 D:\OvelarMariano\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_01\obj\Debug\EJ_01.exe
 D:\OvelarMariano\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_01\obj\Debug\EJ_01.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\1 CONCEPTOS BASICOS\EJ_01\bin\Debug\EJ_01.exe.config
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\1 CONCEPTOS BASICOS\EJ_01\bin\Debug\EJ_01.exe
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\1 CONCEPTOS BASICOS\EJ_01\bin\Debug\EJ_01.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\1 CONCEPTOS BASICOS\EJ_01\obj\Debug\EJ_01.csprojAssemblyReference.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\1 CONCEPTOS BASICOS\EJ_01\obj\Debug\EJ_01.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\1 CONCEPTOS BASICOS\EJ_01\obj\Debug\EJ_01.exe
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\1 CONCEPTOS BASICOS\EJ_01\obj\Debug\EJ_01.pdb

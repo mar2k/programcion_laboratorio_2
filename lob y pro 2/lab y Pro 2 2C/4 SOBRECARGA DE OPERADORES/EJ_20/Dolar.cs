@@ -125,6 +125,14 @@ namespace Billetes
       Dolar dolar = new Dolar(d.GetCantidad() - ((Dolar)e).GetCantidad());
       return dolar;
     }
+        public override bool Equals(object obj)
+        {
+            return base.Equals(obj);
+        }
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
 
-  }
+    }
 }

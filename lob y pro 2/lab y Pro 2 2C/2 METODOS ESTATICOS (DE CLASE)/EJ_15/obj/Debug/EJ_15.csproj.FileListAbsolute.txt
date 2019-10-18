@@ -12,3 +12,10 @@ C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_
 C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_15\obj\Debug\EJ_15.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_15\obj\Debug\EJ_15.exe
 C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\EJ_15\obj\Debug\EJ_15.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\2 METODOS ESTATICOS (DE CLASE)\EJ_15\bin\Debug\EJ_15.exe.config
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\2 METODOS ESTATICOS (DE CLASE)\EJ_15\bin\Debug\EJ_15.exe
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\2 METODOS ESTATICOS (DE CLASE)\EJ_15\bin\Debug\EJ_15.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\2 METODOS ESTATICOS (DE CLASE)\EJ_15\obj\Debug\EJ_15.csprojAssemblyReference.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\2 METODOS ESTATICOS (DE CLASE)\EJ_15\obj\Debug\EJ_15.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\2 METODOS ESTATICOS (DE CLASE)\EJ_15\obj\Debug\EJ_15.exe
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\2 METODOS ESTATICOS (DE CLASE)\EJ_15\obj\Debug\EJ_15.pdb

@@ -12,3 +12,17 @@ C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\5 F
 C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\5 FORM\EJ_23\obj\Debug\EJ_23.csproj.CopyComplete
 C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\5 FORM\EJ_23\obj\Debug\EJ_23.exe
 C:\Users\alumno\Desktop\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\5 FORM\EJ_23\obj\Debug\EJ_23.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\5 FORM\EJ_23\bin\Debug\EJ_23.exe.config
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\5 FORM\EJ_23\bin\Debug\EJ_23.exe
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\5 FORM\EJ_23\bin\Debug\EJ_23.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\5 FORM\EJ_23\bin\Debug\EJ_20.exe
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\5 FORM\EJ_23\bin\Debug\EJ_20.pdb
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\5 FORM\EJ_23\bin\Debug\EJ_20.exe.config
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\5 FORM\EJ_23\obj\Debug\EJ_23.csprojAssemblyReference.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\5 FORM\EJ_23\obj\Debug\EJ_23.FrmMonedas.resources
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\5 FORM\EJ_23\obj\Debug\EJ_23.Properties.Resources.resources
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\5 FORM\EJ_23\obj\Debug\EJ_23.csproj.GenerateResource.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\5 FORM\EJ_23\obj\Debug\EJ_23.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\5 FORM\EJ_23\obj\Debug\EJ_23.csproj.CopyComplete
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\5 FORM\EJ_23\obj\Debug\EJ_23.exe
+D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\5 FORM\EJ_23\obj\Debug\EJ_23.pdb

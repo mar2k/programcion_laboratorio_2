@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using CentralitaHerencia;
+using CentralitaException_EJ_41;
 
 namespace Central_Telefónica
 {
@@ -59,14 +60,24 @@ namespace Central_Telefónica
             numDestino= this.txtNroDestino.Text;
             Enum.TryParse<Provincial.Franja>(this.cmbFranja.SelectedValue.ToString(), out franja);
 
-            if (numDestino.ToList()[0]=='#')
+            try
             {
-                this.centralita = this.centralita + new Provincial(numOrigen, franja, tiempo, numDestino);
+                if (numDestino != "" && numDestino.ToList()[0] == '#')
+                {
+
+                    this.centralita = this.centralita + new Provincial(numOrigen, franja, tiempo, numDestino);
+                }
+                else
+                {
+                    this.centralita = this.centralita + new Local(numOrigen, tiempo, numDestino, costo);
+                }
+
             }
-            else
+            catch (CentralitaException cE)
             {
-                this.centralita = this.centralita + new Local(numOrigen, tiempo, numDestino,costo);
+                MessageBox.Show(cE.Message);
             }
+            
         }
 
         private void btnSalir_Click(object sender, EventArgs e)
