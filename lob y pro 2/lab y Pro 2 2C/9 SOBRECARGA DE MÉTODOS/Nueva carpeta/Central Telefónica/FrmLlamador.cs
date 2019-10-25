@@ -14,7 +14,7 @@ namespace Central_Telefónica
 {
     public partial class FrmLlamador : Form
     {
-        Centralita centralita;
+        Centralita<string> centralita;
         TextBox textBoxAux;
 
         public FrmLlamador()
@@ -22,14 +22,14 @@ namespace Central_Telefónica
             InitializeComponent();
         }
 
-        public FrmLlamador(Centralita centralita):this()
+        public FrmLlamador(Centralita<string> centralita):this()
         {
             this.centralita = centralita;
         }
         
         private void FrmLlamador_Load(object sender, EventArgs e)
         {
-            this.cmbFranja.DataSource = Enum.GetValues(typeof(Provincial.Franja));
+            this.cmbFranja.DataSource = Enum.GetValues(typeof(Provincial<string>.Franja));
             this.txtNroDestino.Text = "";
             //txtNroDestino.ReadOnly = true;
             this.txtNroOrigen.Text = "";
@@ -53,23 +53,23 @@ namespace Central_Telefónica
             string numDestino;
             float costo;
             Random tiempoRandom = new Random();
-            Provincial.Franja franja;
+            Provincial<string>.Franja franja;
             costo = (float)(tiempoRandom.Next(5, 56)/10f); //0,5 y 5,6
             float tiempo = tiempoRandom.Next(1, 50);
             numOrigen = this.txtNroOrigen.Text;
             numDestino= this.txtNroDestino.Text;
-            Enum.TryParse<Provincial.Franja>(this.cmbFranja.SelectedValue.ToString(), out franja);
+            Enum.TryParse<Provincial<string>.Franja>(this.cmbFranja.SelectedValue.ToString(), out franja);
 
             try
             {
                 if (numDestino != "" && numDestino.ToList()[0] == '#')
                 {
 
-                    this.centralita = this.centralita + new Provincial(numOrigen, franja, tiempo, numDestino);
+                    this.centralita = this.centralita + new Provincial<string>(numOrigen, franja, tiempo, numDestino);
                 }
                 else
                 {
-                    this.centralita = this.centralita + new Local(numOrigen, tiempo, numDestino, costo);
+                    this.centralita = this.centralita + new Local<string>(numOrigen, tiempo, numDestino, costo);
                 }
 
             }

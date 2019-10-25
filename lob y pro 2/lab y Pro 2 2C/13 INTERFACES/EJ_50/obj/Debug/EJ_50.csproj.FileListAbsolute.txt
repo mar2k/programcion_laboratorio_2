@@ -1,0 +1,2 @@
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\13 INTERFACES\EJ_50\obj\Debug\EJ_50.csprojAssemblyReference.cache
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\13 INTERFACES\EJ_50\obj\Debug\EJ_50.csproj.CoreCompileInputs.cache

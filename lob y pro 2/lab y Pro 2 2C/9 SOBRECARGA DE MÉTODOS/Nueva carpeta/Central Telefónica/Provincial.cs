@@ -3,17 +3,23 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using EJ_51;
 
 namespace CentralitaHerencia
 {
-    public class Provincial : Llamada
+    public class Provincial<T> : Llamada,IGuardar<T>
     {
         Franja franjaHoraria;
 
         public override float CostoLlamada
         {
-            get { return this.CalcularCostos(); }
+            get
+            {
+                return this.CalcularCostos();
+            }
         }
+
+        public string RutaDeArchivo { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
         public Provincial(Franja miFranja, Llamada llamada) : this(llamada.NroOrigen, miFranja, llamada.Duracion, llamada.NroDestino)
         {
@@ -64,7 +70,7 @@ namespace CentralitaHerencia
         public override bool Equals(object obj)
         {
             bool retorno = false;
-            if (!(obj is null) && obj is Provincial)
+            if (!(obj is null) && obj is Provincial<T>)
             {
                 retorno = true;
             }
@@ -78,6 +84,16 @@ namespace CentralitaHerencia
         public override int GetHashCode()
         {
             return base.GetHashCode();
+        }
+
+        public bool Guardadr()
+        {
+            throw new NotImplementedException();
+        }
+
+        public T Leer()
+        {
+            throw new NotImplementedException();
         }
     }
 }

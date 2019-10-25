@@ -4,3 +4,12 @@ D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2
 D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\CentralitaException-EJ 41\obj\Debug\CentralitaException-EJ 41.csproj.CoreCompileInputs.cache
 D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\CentralitaException-EJ 41\obj\Debug\CentralitaException-EJ 41.dll
 D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\CentralitaException-EJ 41\obj\Debug\CentralitaException-EJ 41.pdb
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\CentralitaException-EJ 41\bin\Debug\CentralitaException-EJ 41.dll
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\CentralitaException-EJ 41\bin\Debug\CentralitaException-EJ 41.pdb
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\CentralitaException-EJ 41\bin\Debug\EJ_51.dll
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\CentralitaException-EJ 41\bin\Debug\EJ_51.pdb
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\CentralitaException-EJ 41\obj\Debug\CentralitaException-EJ 41.csprojAssemblyReference.cache
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\CentralitaException-EJ 41\obj\Debug\CentralitaException-EJ 41.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\CentralitaException-EJ 41\obj\Debug\CentralitaException-EJ 41.csproj.CopyComplete
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\CentralitaException-EJ 41\obj\Debug\CentralitaException-EJ 41.dll
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\CentralitaException-EJ 41\obj\Debug\CentralitaException-EJ 41.pdb

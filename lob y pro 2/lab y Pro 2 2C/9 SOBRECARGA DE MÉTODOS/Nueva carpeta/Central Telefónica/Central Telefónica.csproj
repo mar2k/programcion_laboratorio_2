@@ -96,6 +96,10 @@
       <Project>{170daf8b-2b6f-4351-b553-3214aa484bde}</Project>
       <Name>CentralitaException-EJ 41</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\..\13 INTERFACES\EJ_51\EJ_51.csproj">
+      <Project>{3aeb0d9c-56ae-4316-bbe2-668da1f615c8}</Project>
+      <Name>EJ_51</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -12,3 +12,19 @@ D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2
 D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\9 SOBRECARGA DE MÉTODOS\Nueva carpeta\Central Telefónica\bin\Debug\CentralitaException-EJ 41.dll
 D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\9 SOBRECARGA DE MÉTODOS\Nueva carpeta\Central Telefónica\bin\Debug\CentralitaException-EJ 41.pdb
 D:\OvelarMariano\Nueva carpeta\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\9 SOBRECARGA DE MÉTODOS\Nueva carpeta\Central Telefónica\obj\Debug\Central Telefónica.csproj.CopyComplete
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\9 SOBRECARGA DE MÉTODOS\Nueva carpeta\Central Telefónica\obj\Debug\Central Telefónica.csprojAssemblyReference.cache
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\9 SOBRECARGA DE MÉTODOS\Nueva carpeta\Central Telefónica\obj\Debug\Central_Telefónica.FrmMenu.resources
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\9 SOBRECARGA DE MÉTODOS\Nueva carpeta\Central Telefónica\obj\Debug\Central_Telefónica.FrmLlamador.resources
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\9 SOBRECARGA DE MÉTODOS\Nueva carpeta\Central Telefónica\obj\Debug\Central_Telefónica.Properties.Resources.resources
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\9 SOBRECARGA DE MÉTODOS\Nueva carpeta\Central Telefónica\obj\Debug\Central Telefónica.csproj.GenerateResource.cache
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\9 SOBRECARGA DE MÉTODOS\Nueva carpeta\Central Telefónica\obj\Debug\Central Telefónica.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\9 SOBRECARGA DE MÉTODOS\Nueva carpeta\Central Telefónica\obj\Debug\Central Telefónica.exe
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\9 SOBRECARGA DE MÉTODOS\Nueva carpeta\Central Telefónica\obj\Debug\Central Telefónica.pdb
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\9 SOBRECARGA DE MÉTODOS\Nueva carpeta\Central Telefónica\bin\Debug\Central Telefónica.exe.config
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\9 SOBRECARGA DE MÉTODOS\Nueva carpeta\Central Telefónica\bin\Debug\Central Telefónica.exe
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\9 SOBRECARGA DE MÉTODOS\Nueva carpeta\Central Telefónica\bin\Debug\Central Telefónica.pdb
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\9 SOBRECARGA DE MÉTODOS\Nueva carpeta\Central Telefónica\bin\Debug\CentralitaException-EJ 41.dll
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\9 SOBRECARGA DE MÉTODOS\Nueva carpeta\Central Telefónica\bin\Debug\EJ_51.dll
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\9 SOBRECARGA DE MÉTODOS\Nueva carpeta\Central Telefónica\bin\Debug\CentralitaException-EJ 41.pdb
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\9 SOBRECARGA DE MÉTODOS\Nueva carpeta\Central Telefónica\bin\Debug\EJ_51.pdb
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\9 SOBRECARGA DE MÉTODOS\Nueva carpeta\Central Telefónica\obj\Debug\Central Telefónica.csproj.CopyComplete

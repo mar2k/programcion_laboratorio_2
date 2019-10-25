@@ -1,0 +1,6 @@
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\13 INTERFACES\EJ_51\bin\Debug\EJ_51.dll
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\13 INTERFACES\EJ_51\bin\Debug\EJ_51.pdb
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\13 INTERFACES\EJ_51\obj\Debug\EJ_51.csprojAssemblyReference.cache
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\13 INTERFACES\EJ_51\obj\Debug\EJ_51.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\13 INTERFACES\EJ_51\obj\Debug\EJ_51.dll
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\13 INTERFACES\EJ_51\obj\Debug\EJ_51.pdb

@@ -43,5 +43,11 @@
     <Compile Include="CentralitaException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\13 INTERFACES\EJ_51\EJ_51.csproj">
+      <Project>{3aeb0d9c-56ae-4316-bbe2-668da1f615c8}</Project>
+      <Name>EJ_51</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

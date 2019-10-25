@@ -11,7 +11,7 @@ namespace EJ_42
         static void Main(string[] args)
         {
             MiClase miClase=new MiClase();
-            
+            string aux = "";
             try
             {
                 miClase.Metodo();
@@ -27,7 +27,6 @@ namespace EJ_42
                         ex = ex.InnerException;
                     } while (!object.ReferenceEquals(ex, null));
                 }
-
             }
             Console.ReadKey();
         }

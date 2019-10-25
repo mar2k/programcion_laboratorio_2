@@ -12,9 +12,9 @@ namespace Central_Telefónica
 {
     public partial class FrmMenu : Form
     {
-        public Centralita centralita;
+        public Centralita<string> centralita;
 
-        private Centralita MiCentralita
+        private Centralita<string> MiCentralita
         {
             get
             {
@@ -29,7 +29,7 @@ namespace Central_Telefónica
 
         private void FrmMenu_Load(object sender, EventArgs e)
         {
-            centralita = new Centralita();
+            centralita = new Centralita<string>();
         }
 
         private void btnGenerarLlamada_Click(object sender, EventArgs e)

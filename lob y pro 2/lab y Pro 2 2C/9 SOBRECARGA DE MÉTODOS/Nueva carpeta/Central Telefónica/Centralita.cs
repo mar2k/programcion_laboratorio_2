@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using CentralitaException_EJ_41;
+using EJ_51;
 
 namespace CentralitaHerencia
 {
-    public class Centralita
+    public class Centralita<T>: IGuardar<T>
     {
         string razonSocial;
         private List<Llamada> listaLlamadas;
@@ -47,6 +48,8 @@ namespace CentralitaHerencia
             }
         }
 
+        public string RutaDeArchivo { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
         private float CalcularGanancias(Llamada.TipoLlamada tipo)
         {
             float recaudacion = 0;
@@ -66,13 +69,13 @@ namespace CentralitaHerencia
             }
             foreach (Llamada item in this.listaLlamadas)
             {
-                if ((aux == 1 || aux == 3) && item is Local)
+                if ((aux == 1 || aux == 3) && item is Local<T>)
                 {
-                    recaudacion = recaudacion + ((Local)item).CostoLlamada;
+                    recaudacion = recaudacion + ((Local<T>)item).CostoLlamada;
                 }
-                if ((aux == 2 || aux == 3) && item is Provincial)
+                if ((aux == 2 || aux == 3) && item is Provincial<T>)
                 {
-                    recaudacion = recaudacion + ((Provincial)item).CostoLlamada;
+                    recaudacion = recaudacion + ((Provincial<T>)item).CostoLlamada;
                 }
             }
             return recaudacion;
@@ -118,7 +121,7 @@ namespace CentralitaHerencia
         {
             this.listaLlamadas.Add(NuevaLlamada);
         }
-        public static bool operator ==(Centralita c, Llamada llamada)
+        public static bool operator ==(Centralita<T> c, Llamada llamada)
         {
             bool retorno = false;
             if (!(c is null) && !(llamada is null))
@@ -134,17 +137,17 @@ namespace CentralitaHerencia
             }
             return retorno;
         }
-        public static bool operator !=(Centralita c, Llamada llamada)
+        public static bool operator !=(Centralita<T> c, Llamada llamada)
         {
             return !(c == llamada);
         }
 
-        public static Centralita operator +(Centralita c, Llamada NuevaLlamada)
+        public static Centralita<T> operator +(Centralita<T> c, Llamada NuevaLlamada)
         {
-            
+
             if (!(c is null) && !(NuevaLlamada is null))
             {
-                if (c!=NuevaLlamada)
+                if (c != NuevaLlamada)
                 {
                     c.AgregarLlamada(NuevaLlamada);
                 }
@@ -162,6 +165,17 @@ namespace CentralitaHerencia
         public override int GetHashCode()
         {
             return base.GetHashCode();
+        }
+
+        public bool Guardadr()
+        {
+            this.ToString();
+            return true;
+        }
+
+        public T Leer()
+        {
+            throw new NotImplementedException();
         }
     }
 }

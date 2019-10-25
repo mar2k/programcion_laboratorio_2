@@ -1,0 +1,7 @@
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\12 GENERICS\EJ_47\obj\Debug\EJ_47.csprojAssemblyReference.cache
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\12 GENERICS\EJ_47\obj\Debug\EJ_47.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\12 GENERICS\EJ_47\bin\Debug\EJ_47.exe.config
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\12 GENERICS\EJ_47\bin\Debug\EJ_47.exe
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\12 GENERICS\EJ_47\bin\Debug\EJ_47.pdb
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\12 GENERICS\EJ_47\obj\Debug\EJ_47.exe
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\12 GENERICS\EJ_47\obj\Debug\EJ_47.pdb

@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using EJ_51;
 namespace CentralitaHerencia
 {
-    public class Local : Llamada
+    public class Local<T> : Llamada, IGuardar<T>
     {
         private float costo;
 
@@ -14,6 +14,8 @@ namespace CentralitaHerencia
         {
             get { return this.CalcularCostos(); }
         }
+
+        public string RutaDeArchivo { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
         public Local(string nroOrigen, float duracion, string nroDestino, float costo) : base(duracion, nroDestino, nroOrigen)
         {
@@ -39,7 +41,7 @@ namespace CentralitaHerencia
         public override bool Equals(object obj)
         {
             bool retorno = false;
-            if (!(obj is null) && obj is Local)
+            if (!(obj is null) && obj is Local<T>)
             {
                 retorno = true;
             }
@@ -53,6 +55,16 @@ namespace CentralitaHerencia
         public override int GetHashCode()
         {
             return base.GetHashCode();
+        }
+
+        public bool Guardadr()
+        {
+            throw new NotImplementedException();
+        }
+
+        public T Leer()
+        {
+            throw new NotImplementedException();
         }
     }
 }
