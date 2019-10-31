@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{102273A1-0787-454B-8E62-8DC2C75EA3B1}</ProjectGuid>
+    <ProjectGuid>{9CC17AF7-9E7C-455E-8304-9F7F37CD8A94}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>EJ_42</RootNamespace>
-    <AssemblyName>EJ_42</AssemblyName>
+    <RootNamespace>EJ_55</RootNamespace>
+    <AssemblyName>EJ_55</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,20 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MiClase.cs" />
-    <Compile Include="MiException.cs" />
-    <Compile Include="NuevaException.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\14 ARCHIVOS DE TEXTO\EJ_54\IO EJ_54.csproj">
-      <Project>{ee39c46d-1b0a-4101-84a8-bbe86aab52f0}</Project>
-      <Name>IO EJ_54</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

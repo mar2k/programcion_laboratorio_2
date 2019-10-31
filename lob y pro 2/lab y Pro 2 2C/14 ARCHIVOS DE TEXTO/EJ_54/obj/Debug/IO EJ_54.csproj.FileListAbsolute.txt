@@ -1,0 +1,7 @@
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\14 ARCHIVOS DE TEXTO\EJ_54\bin\Debug\EJ_54.exe.config
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\14 ARCHIVOS DE TEXTO\EJ_54\bin\Debug\EJ_54.exe
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\14 ARCHIVOS DE TEXTO\EJ_54\bin\Debug\EJ_54.pdb
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\14 ARCHIVOS DE TEXTO\EJ_54\obj\Debug\IO EJ_54.csprojAssemblyReference.cache
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\14 ARCHIVOS DE TEXTO\EJ_54\obj\Debug\IO EJ_54.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\14 ARCHIVOS DE TEXTO\EJ_54\obj\Debug\EJ_54.exe
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\14 ARCHIVOS DE TEXTO\EJ_54\obj\Debug\EJ_54.pdb

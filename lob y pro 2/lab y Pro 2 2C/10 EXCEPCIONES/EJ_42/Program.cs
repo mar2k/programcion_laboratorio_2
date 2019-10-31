@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using EJ_54;
 
 namespace EJ_42
 {
@@ -12,6 +13,10 @@ namespace EJ_42
         {
             MiClase miClase=new MiClase();
             string aux = "";
+            DateTime fecha = DateTime.Now;
+            string nombreArchivo = "";
+            
+
             try
             {
                 miClase.Metodo();
@@ -23,11 +28,15 @@ namespace EJ_42
                     Exception ex = e;
                     do
                     {
-                        Console.WriteLine(ex.Message);
+                        aux=aux+ex.Message+" ";
                         ex = ex.InnerException;
                     } while (!object.ReferenceEquals(ex, null));
+                    nombreArchivo += fecha.Year.ToString() + fecha.Month.ToString() + fecha.Day.ToString() + "-" + fecha.Hour.ToString() + fecha.Minute.ToString() + ".txt";
+                    ArchivoTexto.Guardar(nombreArchivo, aux);
                 }
             }
+            Console.WriteLine(ArchivoTexto.Leer(nombreArchivo));
+
             Console.ReadKey();
         }
     }

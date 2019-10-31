@@ -57,7 +57,7 @@ namespace CentralitaHerencia
             return base.GetHashCode();
         }
 
-        public bool Guardadr()
+        public bool Guardar()
         {
             throw new NotImplementedException();
         }

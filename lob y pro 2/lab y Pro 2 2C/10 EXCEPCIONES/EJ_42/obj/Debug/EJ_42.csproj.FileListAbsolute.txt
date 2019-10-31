@@ -12,3 +12,7 @@ D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCI
 D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\EJ_42\obj\Debug\EJ_42.csproj.CoreCompileInputs.cache
 D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\EJ_42\obj\Debug\EJ_42.exe
 D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\EJ_42\obj\Debug\EJ_42.pdb
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\EJ_42\bin\Debug\EJ_54.exe
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\EJ_42\bin\Debug\EJ_54.pdb
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\EJ_42\bin\Debug\EJ_54.exe.config
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\10 EXCEPCIONES\EJ_42\obj\Debug\EJ_42.csproj.CopyComplete

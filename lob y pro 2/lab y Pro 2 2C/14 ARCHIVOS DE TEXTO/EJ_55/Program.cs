@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EJ_51
+namespace EJ_55
 {
-    public interface IGuardar<T>
+    class Program
     {
-        string RutaDeArchivo { get; set; }
-
-        bool Guardar();
-        T Leer();
+        static void Main(string[] args)
+        {
+        }
     }
 }

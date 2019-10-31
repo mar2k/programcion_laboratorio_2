@@ -1,0 +1,1 @@
+MetodoNoEstatico MiClase(int num) MiClase(string str) MetodoEstatico 

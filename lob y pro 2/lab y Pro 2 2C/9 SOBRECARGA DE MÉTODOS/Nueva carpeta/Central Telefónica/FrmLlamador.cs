@@ -71,7 +71,7 @@ namespace Central_Telefónica
                 {
                     this.centralita = this.centralita + new Local<string>(numOrigen, tiempo, numDestino, costo);
                 }
-
+                centralita.Guardar();
             }
             catch (CentralitaException cE)
             {

@@ -167,8 +167,11 @@ namespace CentralitaHerencia
             return base.GetHashCode();
         }
 
-        public bool Guardadr()
+        public bool Guardar()
         {
+            string[] nombreArchivo;
+            DateTime fecha = DateTime.Now;
+            nombreArchivo = fecha.GetDateTimeFormats();
             this.ToString();
             return true;
         }
