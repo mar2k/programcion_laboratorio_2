@@ -1,0 +1,7 @@
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\15 SERIALIZACIÓN\EJ_55\bin\Debug\EJ_55.exe.config
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\15 SERIALIZACIÓN\EJ_55\bin\Debug\EJ_55.exe
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\15 SERIALIZACIÓN\EJ_55\bin\Debug\EJ_55.pdb
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\15 SERIALIZACIÓN\EJ_55\obj\Debug\EJ_55.csprojAssemblyReference.cache
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\15 SERIALIZACIÓN\EJ_55\obj\Debug\EJ_55.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\15 SERIALIZACIÓN\EJ_55\obj\Debug\EJ_55.exe
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\15 SERIALIZACIÓN\EJ_55\obj\Debug\EJ_55.pdb

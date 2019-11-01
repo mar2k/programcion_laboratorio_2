@@ -150,6 +150,15 @@ namespace CentralitaHerencia
                 if (c != NuevaLlamada)
                 {
                     c.AgregarLlamada(NuevaLlamada);
+                    try
+                    {
+                        c.Guardar();
+                    }
+                    catch (Exception)
+                    {
+                        
+                        //throw new FallaLogException();
+                    }
                 }
                 else
                 {
