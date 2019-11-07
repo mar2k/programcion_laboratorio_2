@@ -1,4 +1,5 @@
 git clone https://github.com/mar2k/programcion_laboratorio_2
 
 git config --global user.email "marianoovelar20@outlook.es"
-  git config --global user.name "mar2k"
+
+git config --global user.name "mar2k"
