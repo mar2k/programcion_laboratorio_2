@@ -1,0 +1,10 @@
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\18 EVENTOS\EJ_68\bin\Debug\EJ_68.exe.config
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\18 EVENTOS\EJ_68\bin\Debug\EJ_68.exe
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\18 EVENTOS\EJ_68\bin\Debug\EJ_68.pdb
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\18 EVENTOS\EJ_68\obj\Debug\EJ_68.csprojAssemblyReference.cache
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\18 EVENTOS\EJ_68\obj\Debug\EJ_68.FormPersona.resources
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\18 EVENTOS\EJ_68\obj\Debug\EJ_68.Properties.Resources.resources
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\18 EVENTOS\EJ_68\obj\Debug\EJ_68.csproj.GenerateResource.cache
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\18 EVENTOS\EJ_68\obj\Debug\EJ_68.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\18 EVENTOS\EJ_68\obj\Debug\EJ_68.exe
+D:\OvelarMariano\programcion_laboratorio_2\lob y pro 2\lab y Pro 2 2C\18 EVENTOS\EJ_68\obj\Debug\EJ_68.pdb
