@@ -1,0 +1,15 @@
+D:\OvelarMariano\programcion_laboratorio_2\parcial\segundo parcial\Ovelar.Mariano.2C\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+D:\OvelarMariano\programcion_laboratorio_2\parcial\segundo parcial\Ovelar.Mariano.2C\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe
+D:\OvelarMariano\programcion_laboratorio_2\parcial\segundo parcial\Ovelar.Mariano.2C\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.pdb
+D:\OvelarMariano\programcion_laboratorio_2\parcial\segundo parcial\Ovelar.Mariano.2C\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Entidades.dll
+D:\OvelarMariano\programcion_laboratorio_2\parcial\segundo parcial\Ovelar.Mariano.2C\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\OvelarMariano\programcion_laboratorio_2\parcial\segundo parcial\Ovelar.Mariano.2C\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Entidades.pdb
+D:\OvelarMariano\programcion_laboratorio_2\parcial\segundo parcial\Ovelar.Mariano.2C\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\OvelarMariano\programcion_laboratorio_2\parcial\segundo parcial\Ovelar.Mariano.2C\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\Ovelar.Mariano.2C.csprojAssemblyReference.cache
+D:\OvelarMariano\programcion_laboratorio_2\parcial\segundo parcial\Ovelar.Mariano.2C\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\_20180628_SP.v1.FrmSenadores.resources
+D:\OvelarMariano\programcion_laboratorio_2\parcial\segundo parcial\Ovelar.Mariano.2C\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\_20180628_SP.v1.Properties.Resources.resources
+D:\OvelarMariano\programcion_laboratorio_2\parcial\segundo parcial\Ovelar.Mariano.2C\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\Ovelar.Mariano.2C.csproj.GenerateResource.cache
+D:\OvelarMariano\programcion_laboratorio_2\parcial\segundo parcial\Ovelar.Mariano.2C\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\Ovelar.Mariano.2C.csproj.CoreCompileInputs.cache
+D:\OvelarMariano\programcion_laboratorio_2\parcial\segundo parcial\Ovelar.Mariano.2C\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\Ovelar.Mariano.2C.csproj.CopyComplete
+D:\OvelarMariano\programcion_laboratorio_2\parcial\segundo parcial\Ovelar.Mariano.2C\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+D:\OvelarMariano\programcion_laboratorio_2\parcial\segundo parcial\Ovelar.Mariano.2C\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb

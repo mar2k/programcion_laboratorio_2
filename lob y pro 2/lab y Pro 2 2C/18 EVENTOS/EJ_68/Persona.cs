@@ -10,7 +10,7 @@ namespace EJ_68
     class Persona
     {
         private string nombre;
-        private string apellido;       
+        private string apellido;
 
         public string Apellido
         {
@@ -20,8 +20,17 @@ namespace EJ_68
             }
             set
             {
-                apellido = value;
-                this.EventoString(this.Mostrar());
+                
+                if (this.apellido!="")
+                {
+                    apellido = value;
+                    this.EventoString(this.Mostrar());
+                }
+                else
+                {
+                    apellido = value;
+                }
+
                 
             }
         }
@@ -33,9 +42,18 @@ namespace EJ_68
             }
             set
             {
-                this.nombre = value;
-                this.EventoString(this.Mostrar());
                 
+                if (this.nombre!="")
+                {
+                    this.nombre = value;
+                    this.EventoString(this.Mostrar());
+                }
+                else
+                {
+                    this.nombre = value;
+                }
+                
+
             }
         }
 
@@ -44,20 +62,22 @@ namespace EJ_68
 
         public Persona()
         {
+            this.apellido = "";
+            this.nombre = "";
         }
 
         public string Mostrar()
         {
 
-            StringBuilder datos=new StringBuilder();
+            StringBuilder datos = new StringBuilder();
 
-            datos.AppendFormat("Nombre: {0} Apellido: {1}", this.nombre,this.apellido);
+            datos.AppendFormat("Nombre: {0} Apellido: {1}", this.nombre, this.apellido);
 
             return datos.ToString();
         }
 
-    
 
-       
+
+
     }
 }

@@ -26,17 +26,18 @@ namespace EJ_68
                 this.persona = new Persona();
                 persona.EventoString += this.NotificarCambio;
                 this.btnCerrar.Text = "Actualizar";
+                this.NotificarCambio("se a creado la persona");
             }
-            if (this.txtNombre.Text.CompareTo(this.persona.Nombre) != 0)
+            if (this.txtNombre.Text.CompareTo(this.persona.Nombre) != 0 && this.txtNombre.Text != this.persona.Nombre)
             {
                 this.persona.Nombre = this.txtNombre.Text;
             }
-            if (this.txtApellido.Text.CompareTo(this.persona.Apellido) != 0)
+            if (this.txtApellido.Text.CompareTo(this.persona.Apellido) != 0 && this.txtApellido.Text != this.persona.Apellido)
             {
                 this.persona.Apellido = this.txtApellido.Text;
             }
 
-            MessageBox.Show(this.persona.Mostrar());
+            
         }
         public void NotificarCambio(string cambio)
         {
