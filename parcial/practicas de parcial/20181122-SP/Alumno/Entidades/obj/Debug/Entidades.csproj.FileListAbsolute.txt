@@ -1,0 +1,6 @@
+C:\Facultad utnfra\programcion_laboratorio_2\parcial\practicas de parcial\20181122-SP\Alumno\Entidades\bin\Debug\Entidades.dll
+C:\Facultad utnfra\programcion_laboratorio_2\parcial\practicas de parcial\20181122-SP\Alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Facultad utnfra\programcion_laboratorio_2\parcial\practicas de parcial\20181122-SP\Alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Facultad utnfra\programcion_laboratorio_2\parcial\practicas de parcial\20181122-SP\Alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Facultad utnfra\programcion_laboratorio_2\parcial\practicas de parcial\20181122-SP\Alumno\Entidades\obj\Debug\Entidades.dll
+C:\Facultad utnfra\programcion_laboratorio_2\parcial\practicas de parcial\20181122-SP\Alumno\Entidades\obj\Debug\Entidades.pdb
