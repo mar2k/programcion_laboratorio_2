@@ -11,6 +11,7 @@ namespace Archivos
 {
     public class Xml<T> : IArchivos<T> where T : new()
     {
+        
         public void Guardar(string archivo, T datos)
         {
             try
